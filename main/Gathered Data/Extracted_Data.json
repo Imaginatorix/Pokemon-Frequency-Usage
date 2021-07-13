@@ -1,0 +1,476 @@
+{
+    "NU": {
+        "NU leavers": [
+            "Cloyster",
+            "Leafeon",
+            "Nidoqueen",
+            "Poliwrath",
+            "Qwilfish"
+        ]
+    },
+    "OU": {
+        "Metagross": {
+            "Usage": "15.55%",
+            "Teammates": {}
+        },
+        "Azelf": {
+            "Usage": "9.89%",
+            "Teammates": {}
+        },
+        "Infernape": {
+            "Usage": "14.15%",
+            "Teammates": {}
+        },
+        "Jirachi": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Aerodactyl": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Swampert": {
+            "Usage": "15.27%",
+            "Teammates": {}
+        },
+        "Bronzong": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Tyranitar": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Heatran": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Gengar": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Mamoswine": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Scizor": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Salamence": {
+            "Usage": "20.91%",
+            "Teammates": {}
+        },
+        "Gyarados": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Latias": {
+            "Usage": "16.90%",
+            "Teammates": {}
+        },
+        "Lucario": {
+            "Usage": "13.47%",
+            "Teammates": {}
+        },
+        "Starmie": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Blissey": {
+            "Usage": "12.23%",
+            "Teammates": {}
+        },
+        "Skarmory": {
+            "Usage": "11.13%",
+            "Teammates": {}
+        },
+        "Machamp": {
+            "Usage": "10.49%",
+            "Teammates": {}
+        },
+        "Gliscor": {
+            "Usage": "10.40%",
+            "Teammates": {}
+        },
+        "Breloom": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Ferrothorn": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Politoed": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Dragonite": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Latios": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Garchomp": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Keldeo": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Alakazam": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Landorus": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Thundurus": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Volcarona": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Terrakion": {
+            "Usage": "",
+            "Teammates": {}
+        },
+        "Kyurem": {
+            "Usage": "",
+            "Teammates": {}
+        }
+    },
+    "UU": {
+        "Venusaur": {
+            "Usage": "23.27%",
+            "Teammates": {}
+        },
+        "Milotic": {
+            "Usage": "19.48%",
+            "Teammates": {}
+        },
+        "Mismagius": {
+            "Usage": "16.49%",
+            "Teammates": {}
+        },
+        "Uxie": {
+            "Usage": "14.87%",
+            "Teammates": {}
+        },
+        "Registeel": {
+            "Usage": "14.08%",
+            "Teammates": {}
+        },
+        "Arcanine": {
+            "Usage": "14.07%",
+            "Teammates": {}
+        },
+        "Moltres": {
+            "Usage": "13.46%",
+            "Teammates": {}
+        },
+        "Spiritomb": {
+            "Usage": "13.26%",
+            "Teammates": {}
+        },
+        "Alakazam": {
+            "Usage": "13.18%",
+            "Teammates": {}
+        },
+        "Rhyperior": {
+            "Usage": "12.32%",
+            "Teammates": {}
+        },
+        "Hitmontop": {
+            "Usage": "11.80%",
+            "Teammates": {}
+        },
+        "Donphan": {
+            "Usage": "11.59%",
+            "Teammates": {}
+        },
+        "Rotom": {
+            "Usage": "11.41%",
+            "Teammates": {}
+        },
+        "Sceptile": {
+            "Usage": "11.12%",
+            "Teammates": {}
+        },
+        "Ambipom": {
+            "Usage": "10.92%",
+            "Teammates": {}
+        },
+        "Houndoom": {
+            "Usage": "10.80%",
+            "Teammates": {}
+        },
+        "Clefable": {
+            "Usage": "10.48%",
+            "Teammates": {}
+        },
+        "Swellow": {
+            "Usage": "9.92%",
+            "Teammates": {}
+        },
+        "Kabutops": {
+            "Usage": "9.39%",
+            "Teammates": {}
+        },
+        "Dugtrio": {
+            "Usage": "8.81%",
+            "Teammates": {}
+        }
+    },
+    "Uber": {
+        "Kyogre": {
+            "Usage": "44.97%",
+            "Teammates": {
+                "Groudon": "37.91%",
+                "Palkia": "36.96%",
+                "Mewtwo": "36.71%",
+                "Scizor": "34.58%",
+                "Rayquaza": "29.58%",
+                "Dialga": "28.88%"
+            }
+        },
+        "Palkia": {
+            "Usage": "31.53%",
+            "Teammates": {
+                "Latios": "27.68%",
+                "Kyogre": "52.73%",
+                "Groudon": "44.37%",
+                "Forretress": "31.74%",
+                "Mewtwo": "28.01%"
+            }
+        },
+        "Groudon": {
+            "Usage": "36.92%",
+            "Teammates": {
+                "Dialga": "30.14%",
+                "Forretress": "38.98%",
+                "Palkia": "37.89%",
+                "Ho-Oh": "37.80%",
+                "Mewtwo": "32.02%"
+            }
+        },
+        "Darkrai": {
+            "Usage": "24.51%",
+            "Teammates": {
+                "Dialga": "32.39%",
+                "Kyogre": "51.28%",
+                "Rayquaza": "37.42%",
+                "Mewtwo": "36.23%",
+                "Groudon": "32.53%"
+            }
+        },
+        "Dialga": {
+            "Usage": "29.37%",
+            "Teammates": {
+                "Mewtwo": "31.76%",
+                "Kyogre": "44.21%",
+                "Groudon": "37.89%",
+                "Palkia": "28.80%",
+                "Darkrai": "27.03%"
+            }
+        },
+        "Rayquaza": {
+            "Usage": "28.14%",
+            "Teammates": {
+                "Darkrai": "32.59%",
+                "Kyogre": "47.28%",
+                "Mewtwo": "46.59%",
+                "Wobbuffet": "39.51%",
+                "Groudon": "29.33%"
+            }
+        },
+        "Mewtwo": {
+            "Usage": "36.37%",
+            "Teammates": {
+                "Dialga": "30.14%",
+                "Kyogre": "45.40%",
+                "Rayquaza": "36.04%",
+                "Groudon": "32.51%",
+                "Scizor": "31.28%",
+                "Latios": "27.68%"
+            }
+        },
+        "Deoxys": {
+            "Usage": "14.24%",
+            "Teammates": {
+                "Kyogre": "58.27%",
+                "Darkrai": "43.22%",
+                "Palkia": "40.96",
+                "Groudon": "30.57%",
+                "Rayquaza": "28.68%"
+            }
+        },
+        "Lugia": {
+            "Usage": "11.90%",
+            "Teammates": {
+                "Scizor": "26.69%",
+                "Kyogre": "51.77%",
+                "Darkrai": "34.82%",
+                "Palkia": "27.97%",
+                "Dialga": "27.63%",
+                "Groudon": "27.23%"
+            }
+        },
+        "Garchomp": {
+            "Usage": "14.60%",
+            "Teammates": {
+                "Forretress": "30.61%",
+                "Kyogre": "48.51%",
+                "Palkia": "35.05%",
+                "Mewtwo": "31.11%",
+                "Dialga": "30.58%",
+                "Scizor": "26.69%"
+            }
+        },
+        "Scizor": {
+            "Usage": "26.91%",
+            "Teammates": {
+                "Groudon": "29.33%",
+                "Kyogre": "57.80%",
+                "Mewtwo": "42.28%",
+                "Rayquaza": "29.59%",
+                "Wobbuffet": "29.57%",
+                "Dialga": "28.52%"
+            }
+        },
+        "Wobbuffet": {
+            "Usage": "24.62%",
+            "Teammates": {
+                "Dialga": "31.47%",
+                "Rayquaza": "45.16%",
+                "Mewtwo": "36.96%",
+                "Kyogre": "36.83%",
+                "Scizor": "32.32%"
+            }
+        },
+        "Blissey": {
+            "Usage": "15.19%",
+            "Teammates": {
+                "Scizor": "47.78%",
+                "Forretress": "68.82%",
+                "Groudon": "66.33%",
+                "Ho-Oh": "44.32%",
+                "Palkia": "43.13%"
+            }
+        },
+        "Forretress": {
+            "Usage": "22.04%",
+            "Teammates": {
+                "Dialga": "32.39%",
+                "Groudon": "65.23%",
+                "Ho-Oh": "49.38%",
+                "Blissey": "47.31%",
+                "Palkia": "45.41%"
+            }
+        },
+        "Giratina": {
+            "Usage": "8.82%",
+            "Teammates": {
+                "Darkrai": "32.10%",
+                "Kyogre": "46.43%",
+                "Mewtwo": "37.15%",
+                "Forretress": "36.52%",
+                "Rayquaza": "32.85%",
+                "Blissey": "32.51%"
+            }
+        },
+        "Latias": {
+            "Usage": "15.00%",
+            "Teammates": {
+                "Palkia": "43.13%",
+                "Groudon": "52.32%",
+                "Kyogre": "40.87%",
+                "Dialga": "37.08%",
+                "Ho-Oh": "32.51%",
+                "Forretress": "30.61%"
+            }
+        },
+        "Shaymin": {
+            "Usage": "10.68%",
+            "Teammates": {
+                "Kyogre": "47.84%",
+                "Mewtwo": "32.15%",
+                "Garchomp": "30.94%",
+                "Darkrai": "29.99%",
+                "Palkia": "28.87%"
+            }
+        },
+        "Lucario": {
+            "Usage": "8.39%",
+            "Teammates": {
+                "Blissey": "32.51%",
+                "Mewtwo": "45.87%",
+                "Wobbuffet": "38.49%",
+                "Rayquaza": "32.29%",
+                "Groudon": "31.77%"
+            }
+        },
+        "Ho-Oh": {
+            "Usage": "18.57%",
+            "Teammates": {
+                "Palkia": "32.37%",
+                "Groudon": "75.17%",
+                "Forretress": "58.61%",
+                "Blissey": "36.27%"
+            }
+        },
+        "Latios": {
+            "Usage": "15.16%",
+            "Teammates": {
+                "Palkia": "32.37%",
+                "Mewtwo": "64.71%",
+                "Kyogre": "62.12%",
+                "Scizor": "47.78%"
+            }
+        },
+        "Mew": {
+            "Usage": "10.07%",
+            "Teammates": {
+                "Groudon": "35.73%",
+                "Mewtwo": "55.78%",
+                "Rayquaza": "51.43%",
+                "Dialga": "33.82%",
+                "Darkrai": "32.10%"
+            }
+        },
+        "Tyranitar": {
+            "Usage": "7.0%",
+            "Teammates": {
+                "Groudon": "31.77%",
+                "Garchomp": "47.16%",
+                "Dialga": "37.75%",
+                "Palkia": "30.76%",
+                "Kyogre": "29.02%",
+                "Mewtwo": "28.02%"
+            }
+        },
+        "Jirachi": {
+            "Usage": "6.17%",
+            "Teammates": {
+                "Mewtwo": "28.02%",
+                "Kyogre": "52.63%",
+                "Groudon": "44.09%",
+                "Darkrai": "28.2%"
+            }
+        },
+        "Salamence": {
+            "Usage": "5.10%",
+            "Teammates": {}
+        },
+        "Kingdra": {
+            "Usage": "4.6%",
+            "Teammates": {}
+        }
+    }
+}

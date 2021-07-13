@@ -1,0 +1,4852 @@
+{
+    "Bulbasaur": {
+        "Dex Entry": "#001",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Ivysaur": {
+        "Dex Entry": "#002",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Venusaur": {
+        "Dex Entry": "#003",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Charmander": {
+        "Dex Entry": "#004",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Charmeleon": {
+        "Dex Entry": "#005",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Charizard": {
+        "Dex Entry": "#006",
+        "Type": "Fire/Flying",
+        "Generation": "Generation I"
+    },
+    "Squirtle": {
+        "Dex Entry": "#007",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Wartortle": {
+        "Dex Entry": "#008",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Blastoise": {
+        "Dex Entry": "#009",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Caterpie": {
+        "Dex Entry": "#010",
+        "Type": "Bug",
+        "Generation": "Generation I"
+    },
+    "Metapod": {
+        "Dex Entry": "#011",
+        "Type": "Bug",
+        "Generation": "Generation I"
+    },
+    "Butterfree": {
+        "Dex Entry": "#012",
+        "Type": "Bug/Flying",
+        "Generation": "Generation I"
+    },
+    "Weedle": {
+        "Dex Entry": "#013",
+        "Type": "Bug/Poison",
+        "Generation": "Generation I"
+    },
+    "Kakuna": {
+        "Dex Entry": "#014",
+        "Type": "Bug/Poison",
+        "Generation": "Generation I"
+    },
+    "Beedrill": {
+        "Dex Entry": "#015",
+        "Type": "Bug/Poison",
+        "Generation": "Generation I"
+    },
+    "Pidgey": {
+        "Dex Entry": "#016",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Pidgeotto": {
+        "Dex Entry": "#017",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Pidgeot": {
+        "Dex Entry": "#018",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Rattata [1]": {
+        "Dex Entry": "#019",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Rattata [2]": {
+        "Dex Entry": "#019",
+        "Type": "Dark/Normal",
+        "Generation": "Generation I"
+    },
+    "Raticate [1]": {
+        "Dex Entry": "#020",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Raticate [2]": {
+        "Dex Entry": "#020",
+        "Type": "Dark/Normal",
+        "Generation": "Generation I"
+    },
+    "Spearow": {
+        "Dex Entry": "#021",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Fearow": {
+        "Dex Entry": "#022",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Ekans": {
+        "Dex Entry": "#023",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Arbok": {
+        "Dex Entry": "#024",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Pikachu": {
+        "Dex Entry": "#025",
+        "Type": "Electric",
+        "Generation": "Generation I"
+    },
+    "Raichu [1]": {
+        "Dex Entry": "#026",
+        "Type": "Electric",
+        "Generation": "Generation I"
+    },
+    "Raichu [2]": {
+        "Dex Entry": "#026",
+        "Type": "Electric/Psychic",
+        "Generation": "Generation I"
+    },
+    "Sandshrew [1]": {
+        "Dex Entry": "#027",
+        "Type": "Ground",
+        "Generation": "Generation I"
+    },
+    "Sandshrew [2]": {
+        "Dex Entry": "#027",
+        "Type": "Ice/Steel",
+        "Generation": "Generation I"
+    },
+    "Sandslash [1]": {
+        "Dex Entry": "#028",
+        "Type": "Ground",
+        "Generation": "Generation I"
+    },
+    "Sandslash [2]": {
+        "Dex Entry": "#028",
+        "Type": "Ice/Steel",
+        "Generation": "Generation I"
+    },
+    "Nidoran\u2640": {
+        "Dex Entry": "#029",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Nidorina": {
+        "Dex Entry": "#030",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Nidoqueen": {
+        "Dex Entry": "#031",
+        "Type": "Poison/Ground",
+        "Generation": "Generation I"
+    },
+    "Nidoran\u2642": {
+        "Dex Entry": "#032",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Nidorino": {
+        "Dex Entry": "#033",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Nidoking": {
+        "Dex Entry": "#034",
+        "Type": "Poison/Ground",
+        "Generation": "Generation I"
+    },
+    "Clefairy": {
+        "Dex Entry": "#035",
+        "Type": "Fairy",
+        "Generation": "Generation I"
+    },
+    "Clefable": {
+        "Dex Entry": "#036",
+        "Type": "Fairy",
+        "Generation": "Generation I"
+    },
+    "Vulpix [1]": {
+        "Dex Entry": "#037",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Vulpix [2]": {
+        "Dex Entry": "#037",
+        "Type": "Ice",
+        "Generation": "Generation I"
+    },
+    "Ninetales [1]": {
+        "Dex Entry": "#038",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Ninetales [2]": {
+        "Dex Entry": "#038",
+        "Type": "Ice/Fairy",
+        "Generation": "Generation I"
+    },
+    "Jigglypuff": {
+        "Dex Entry": "#039",
+        "Type": "Normal/Fairy",
+        "Generation": "Generation I"
+    },
+    "Wigglytuff": {
+        "Dex Entry": "#040",
+        "Type": "Normal/Fairy",
+        "Generation": "Generation I"
+    },
+    "Zubat": {
+        "Dex Entry": "#041",
+        "Type": "Poison/Flying",
+        "Generation": "Generation I"
+    },
+    "Golbat": {
+        "Dex Entry": "#042",
+        "Type": "Poison/Flying",
+        "Generation": "Generation I"
+    },
+    "Oddish": {
+        "Dex Entry": "#043",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Gloom": {
+        "Dex Entry": "#044",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Vileplume": {
+        "Dex Entry": "#045",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Paras": {
+        "Dex Entry": "#046",
+        "Type": "Bug/Grass",
+        "Generation": "Generation I"
+    },
+    "Parasect": {
+        "Dex Entry": "#047",
+        "Type": "Bug/Grass",
+        "Generation": "Generation I"
+    },
+    "Venonat": {
+        "Dex Entry": "#048",
+        "Type": "Bug/Poison",
+        "Generation": "Generation I"
+    },
+    "Venomoth": {
+        "Dex Entry": "#049",
+        "Type": "Bug/Poison",
+        "Generation": "Generation I"
+    },
+    "Diglett [1]": {
+        "Dex Entry": "#050",
+        "Type": "Ground",
+        "Generation": "Generation I"
+    },
+    "Diglett [2]": {
+        "Dex Entry": "#050",
+        "Type": "Ground/Steel",
+        "Generation": "Generation I"
+    },
+    "Dugtrio [1]": {
+        "Dex Entry": "#051",
+        "Type": "Ground",
+        "Generation": "Generation I"
+    },
+    "Dugtrio [2]": {
+        "Dex Entry": "#051",
+        "Type": "Ground/Steel",
+        "Generation": "Generation I"
+    },
+    "Meowth [1]": {
+        "Dex Entry": "#052",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Meowth [2]": {
+        "Dex Entry": "#052",
+        "Type": "Dark",
+        "Generation": "Generation I"
+    },
+    "Meowth [3]": {
+        "Dex Entry": "#052",
+        "Type": "Steel",
+        "Generation": "Generation I"
+    },
+    "Persian [1]": {
+        "Dex Entry": "#053",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Persian [2]": {
+        "Dex Entry": "#053",
+        "Type": "Dark",
+        "Generation": "Generation I"
+    },
+    "Psyduck": {
+        "Dex Entry": "#054",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Golduck": {
+        "Dex Entry": "#055",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Mankey": {
+        "Dex Entry": "#056",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Primeape": {
+        "Dex Entry": "#057",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Growlithe": {
+        "Dex Entry": "#058",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Arcanine": {
+        "Dex Entry": "#059",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Poliwag": {
+        "Dex Entry": "#060",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Poliwhirl": {
+        "Dex Entry": "#061",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Poliwrath": {
+        "Dex Entry": "#062",
+        "Type": "Water/Fighting",
+        "Generation": "Generation I"
+    },
+    "Abra": {
+        "Dex Entry": "#063",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Kadabra": {
+        "Dex Entry": "#064",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Alakazam": {
+        "Dex Entry": "#065",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Machop": {
+        "Dex Entry": "#066",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Machoke": {
+        "Dex Entry": "#067",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Machamp": {
+        "Dex Entry": "#068",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Bellsprout": {
+        "Dex Entry": "#069",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Weepinbell": {
+        "Dex Entry": "#070",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Victreebel": {
+        "Dex Entry": "#071",
+        "Type": "Grass/Poison",
+        "Generation": "Generation I"
+    },
+    "Tentacool": {
+        "Dex Entry": "#072",
+        "Type": "Water/Poison",
+        "Generation": "Generation I"
+    },
+    "Tentacruel": {
+        "Dex Entry": "#073",
+        "Type": "Water/Poison",
+        "Generation": "Generation I"
+    },
+    "Geodude [1]": {
+        "Dex Entry": "#074",
+        "Type": "Rock/Ground",
+        "Generation": "Generation I"
+    },
+    "Geodude [2]": {
+        "Dex Entry": "#074",
+        "Type": "Rock/Electric",
+        "Generation": "Generation I"
+    },
+    "Graveler [1]": {
+        "Dex Entry": "#075",
+        "Type": "Rock/Ground",
+        "Generation": "Generation I"
+    },
+    "Graveler [2]": {
+        "Dex Entry": "#075",
+        "Type": "Rock/Electric",
+        "Generation": "Generation I"
+    },
+    "Golem [1]": {
+        "Dex Entry": "#076",
+        "Type": "Rock/Ground",
+        "Generation": "Generation I"
+    },
+    "Golem [2]": {
+        "Dex Entry": "#076",
+        "Type": "Rock/Electric",
+        "Generation": "Generation I"
+    },
+    "Ponyta [1]": {
+        "Dex Entry": "#077",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Ponyta [2]": {
+        "Dex Entry": "#077",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Rapidash [1]": {
+        "Dex Entry": "#078",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Rapidash [2]": {
+        "Dex Entry": "#078",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation I"
+    },
+    "Slowpoke [1]": {
+        "Dex Entry": "#079",
+        "Type": "Water/Psychic",
+        "Generation": "Generation I"
+    },
+    "Slowpoke [2]": {
+        "Dex Entry": "#079",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Slowbro [1]": {
+        "Dex Entry": "#080",
+        "Type": "Water/Psychic",
+        "Generation": "Generation I"
+    },
+    "Slowbro [2]": {
+        "Dex Entry": "#080",
+        "Type": "Poison/Psychic",
+        "Generation": "Generation I"
+    },
+    "Magnemite": {
+        "Dex Entry": "#081",
+        "Type": "Electric/Steel",
+        "Generation": "Generation I"
+    },
+    "Magneton": {
+        "Dex Entry": "#082",
+        "Type": "Electric/Steel",
+        "Generation": "Generation I"
+    },
+    "Farfetch'd [1]": {
+        "Dex Entry": "#083",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Farfetch'd [2]": {
+        "Dex Entry": "#083",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Doduo": {
+        "Dex Entry": "#084",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Dodrio": {
+        "Dex Entry": "#085",
+        "Type": "Normal/Flying",
+        "Generation": "Generation I"
+    },
+    "Seel": {
+        "Dex Entry": "#086",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Dewgong": {
+        "Dex Entry": "#087",
+        "Type": "Water/Ice",
+        "Generation": "Generation I"
+    },
+    "Grimer [1]": {
+        "Dex Entry": "#088",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Grimer [2]": {
+        "Dex Entry": "#088",
+        "Type": "Poison/Dark",
+        "Generation": "Generation I"
+    },
+    "Muk [1]": {
+        "Dex Entry": "#089",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Muk [2]": {
+        "Dex Entry": "#089",
+        "Type": "Poison/Dark",
+        "Generation": "Generation I"
+    },
+    "Shellder": {
+        "Dex Entry": "#090",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Cloyster": {
+        "Dex Entry": "#091",
+        "Type": "Water/Ice",
+        "Generation": "Generation I"
+    },
+    "Gastly": {
+        "Dex Entry": "#092",
+        "Type": "Ghost/Poison",
+        "Generation": "Generation I"
+    },
+    "Haunter": {
+        "Dex Entry": "#093",
+        "Type": "Ghost/Poison",
+        "Generation": "Generation I"
+    },
+    "Gengar": {
+        "Dex Entry": "#094",
+        "Type": "Ghost/Poison",
+        "Generation": "Generation I"
+    },
+    "Onix": {
+        "Dex Entry": "#095",
+        "Type": "Rock/Ground",
+        "Generation": "Generation I"
+    },
+    "Drowzee": {
+        "Dex Entry": "#096",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Hypno": {
+        "Dex Entry": "#097",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Krabby": {
+        "Dex Entry": "#098",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Kingler": {
+        "Dex Entry": "#099",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Voltorb": {
+        "Dex Entry": "#100",
+        "Type": "Electric",
+        "Generation": "Generation I"
+    },
+    "Electrode": {
+        "Dex Entry": "#101",
+        "Type": "Electric",
+        "Generation": "Generation I"
+    },
+    "Exeggcute": {
+        "Dex Entry": "#102",
+        "Type": "Grass/Psychic",
+        "Generation": "Generation I"
+    },
+    "Exeggutor [1]": {
+        "Dex Entry": "#103",
+        "Type": "Grass/Psychic",
+        "Generation": "Generation I"
+    },
+    "Exeggutor [2]": {
+        "Dex Entry": "#103",
+        "Type": "Grass/Dragon",
+        "Generation": "Generation I"
+    },
+    "Cubone": {
+        "Dex Entry": "#104",
+        "Type": "Ground",
+        "Generation": "Generation I"
+    },
+    "Marowak [1]": {
+        "Dex Entry": "#105",
+        "Type": "Ground",
+        "Generation": "Generation I"
+    },
+    "Marowak [2]": {
+        "Dex Entry": "#105",
+        "Type": "Fire/Ghost",
+        "Generation": "Generation I"
+    },
+    "Hitmonlee": {
+        "Dex Entry": "#106",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Hitmonchan": {
+        "Dex Entry": "#107",
+        "Type": "Fighting",
+        "Generation": "Generation I"
+    },
+    "Lickitung": {
+        "Dex Entry": "#108",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Koffing": {
+        "Dex Entry": "#109",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Weezing [1]": {
+        "Dex Entry": "#110",
+        "Type": "Poison",
+        "Generation": "Generation I"
+    },
+    "Weezing [2]": {
+        "Dex Entry": "#110",
+        "Type": "Poison/Fairy",
+        "Generation": "Generation I"
+    },
+    "Rhyhorn": {
+        "Dex Entry": "#111",
+        "Type": "Ground/Rock",
+        "Generation": "Generation I"
+    },
+    "Rhydon": {
+        "Dex Entry": "#112",
+        "Type": "Ground/Rock",
+        "Generation": "Generation I"
+    },
+    "Chansey": {
+        "Dex Entry": "#113",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Tangela": {
+        "Dex Entry": "#114",
+        "Type": "Grass",
+        "Generation": "Generation I"
+    },
+    "Kangaskhan": {
+        "Dex Entry": "#115",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Horsea": {
+        "Dex Entry": "#116",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Seadra": {
+        "Dex Entry": "#117",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Goldeen": {
+        "Dex Entry": "#118",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Seaking": {
+        "Dex Entry": "#119",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Staryu": {
+        "Dex Entry": "#120",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Starmie": {
+        "Dex Entry": "#121",
+        "Type": "Water/Psychic",
+        "Generation": "Generation I"
+    },
+    "Mr. Mime [1]": {
+        "Dex Entry": "#122",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation I"
+    },
+    "Mr. Mime [2]": {
+        "Dex Entry": "#122",
+        "Type": "Ice/Psychic",
+        "Generation": "Generation I"
+    },
+    "Scyther": {
+        "Dex Entry": "#123",
+        "Type": "Bug/Flying",
+        "Generation": "Generation I"
+    },
+    "Jynx": {
+        "Dex Entry": "#124",
+        "Type": "Ice/Psychic",
+        "Generation": "Generation I"
+    },
+    "Electabuzz": {
+        "Dex Entry": "#125",
+        "Type": "Electric",
+        "Generation": "Generation I"
+    },
+    "Magmar": {
+        "Dex Entry": "#126",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Pinsir": {
+        "Dex Entry": "#127",
+        "Type": "Bug",
+        "Generation": "Generation I"
+    },
+    "Tauros": {
+        "Dex Entry": "#128",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Magikarp": {
+        "Dex Entry": "#129",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Gyarados": {
+        "Dex Entry": "#130",
+        "Type": "Water/Flying",
+        "Generation": "Generation I"
+    },
+    "Lapras": {
+        "Dex Entry": "#131",
+        "Type": "Water/Ice",
+        "Generation": "Generation I"
+    },
+    "Ditto": {
+        "Dex Entry": "#132",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Eevee": {
+        "Dex Entry": "#133",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Vaporeon": {
+        "Dex Entry": "#134",
+        "Type": "Water",
+        "Generation": "Generation I"
+    },
+    "Jolteon": {
+        "Dex Entry": "#135",
+        "Type": "Electric",
+        "Generation": "Generation I"
+    },
+    "Flareon": {
+        "Dex Entry": "#136",
+        "Type": "Fire",
+        "Generation": "Generation I"
+    },
+    "Porygon": {
+        "Dex Entry": "#137",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Omanyte": {
+        "Dex Entry": "#138",
+        "Type": "Rock/Water",
+        "Generation": "Generation I"
+    },
+    "Omastar": {
+        "Dex Entry": "#139",
+        "Type": "Rock/Water",
+        "Generation": "Generation I"
+    },
+    "Kabuto": {
+        "Dex Entry": "#140",
+        "Type": "Rock/Water",
+        "Generation": "Generation I"
+    },
+    "Kabutops": {
+        "Dex Entry": "#141",
+        "Type": "Rock/Water",
+        "Generation": "Generation I"
+    },
+    "Aerodactyl": {
+        "Dex Entry": "#142",
+        "Type": "Rock/Flying",
+        "Generation": "Generation I"
+    },
+    "Snorlax": {
+        "Dex Entry": "#143",
+        "Type": "Normal",
+        "Generation": "Generation I"
+    },
+    "Articuno [1]": {
+        "Dex Entry": "#144",
+        "Type": "Ice/Flying",
+        "Generation": "Generation I"
+    },
+    "Articuno [2]": {
+        "Dex Entry": "#144",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation I"
+    },
+    "Zapdos [1]": {
+        "Dex Entry": "#145",
+        "Type": "Electric/Flying",
+        "Generation": "Generation I"
+    },
+    "Zapdos [2]": {
+        "Dex Entry": "#145",
+        "Type": "Fighting/Flying",
+        "Generation": "Generation I"
+    },
+    "Moltres [1]": {
+        "Dex Entry": "#146",
+        "Type": "Fire/Flying",
+        "Generation": "Generation I"
+    },
+    "Moltres [2]": {
+        "Dex Entry": "#146",
+        "Type": "Dark/Flying",
+        "Generation": "Generation I"
+    },
+    "Dratini": {
+        "Dex Entry": "#147",
+        "Type": "Dragon",
+        "Generation": "Generation I"
+    },
+    "Dragonair": {
+        "Dex Entry": "#148",
+        "Type": "Dragon",
+        "Generation": "Generation I"
+    },
+    "Dragonite": {
+        "Dex Entry": "#149",
+        "Type": "Dragon/Flying",
+        "Generation": "Generation I"
+    },
+    "Mewtwo": {
+        "Dex Entry": "#150",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Mew": {
+        "Dex Entry": "#151",
+        "Type": "Psychic",
+        "Generation": "Generation I"
+    },
+    "Chikorita": {
+        "Dex Entry": "#152",
+        "Type": "Grass",
+        "Generation": "Generation II"
+    },
+    "Bayleef": {
+        "Dex Entry": "#153",
+        "Type": "Grass",
+        "Generation": "Generation II"
+    },
+    "Meganium": {
+        "Dex Entry": "#154",
+        "Type": "Grass",
+        "Generation": "Generation II"
+    },
+    "Cyndaquil": {
+        "Dex Entry": "#155",
+        "Type": "Fire",
+        "Generation": "Generation II"
+    },
+    "Quilava": {
+        "Dex Entry": "#156",
+        "Type": "Fire",
+        "Generation": "Generation II"
+    },
+    "Typhlosion": {
+        "Dex Entry": "#157",
+        "Type": "Fire",
+        "Generation": "Generation II"
+    },
+    "Totodile": {
+        "Dex Entry": "#158",
+        "Type": "Water",
+        "Generation": "Generation II"
+    },
+    "Croconaw": {
+        "Dex Entry": "#159",
+        "Type": "Water",
+        "Generation": "Generation II"
+    },
+    "Feraligatr": {
+        "Dex Entry": "#160",
+        "Type": "Water",
+        "Generation": "Generation II"
+    },
+    "Sentret": {
+        "Dex Entry": "#161",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Furret": {
+        "Dex Entry": "#162",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Hoothoot": {
+        "Dex Entry": "#163",
+        "Type": "Normal/Flying",
+        "Generation": "Generation II"
+    },
+    "Noctowl": {
+        "Dex Entry": "#164",
+        "Type": "Normal/Flying",
+        "Generation": "Generation II"
+    },
+    "Ledyba": {
+        "Dex Entry": "#165",
+        "Type": "Bug/Flying",
+        "Generation": "Generation II"
+    },
+    "Ledian": {
+        "Dex Entry": "#166",
+        "Type": "Bug/Flying",
+        "Generation": "Generation II"
+    },
+    "Spinarak": {
+        "Dex Entry": "#167",
+        "Type": "Bug/Poison",
+        "Generation": "Generation II"
+    },
+    "Ariados": {
+        "Dex Entry": "#168",
+        "Type": "Bug/Poison",
+        "Generation": "Generation II"
+    },
+    "Crobat": {
+        "Dex Entry": "#169",
+        "Type": "Poison/Flying",
+        "Generation": "Generation II"
+    },
+    "Chinchou": {
+        "Dex Entry": "#170",
+        "Type": "Water/Electric",
+        "Generation": "Generation II"
+    },
+    "Lanturn": {
+        "Dex Entry": "#171",
+        "Type": "Water/Electric",
+        "Generation": "Generation II"
+    },
+    "Pichu": {
+        "Dex Entry": "#172",
+        "Type": "Electric",
+        "Generation": "Generation II"
+    },
+    "Cleffa": {
+        "Dex Entry": "#173",
+        "Type": "Fairy",
+        "Generation": "Generation II"
+    },
+    "Igglybuff": {
+        "Dex Entry": "#174",
+        "Type": "Normal/Fairy",
+        "Generation": "Generation II"
+    },
+    "Togepi": {
+        "Dex Entry": "#175",
+        "Type": "Fairy",
+        "Generation": "Generation II"
+    },
+    "Togetic": {
+        "Dex Entry": "#176",
+        "Type": "Fairy/Flying",
+        "Generation": "Generation II"
+    },
+    "Natu": {
+        "Dex Entry": "#177",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation II"
+    },
+    "Xatu": {
+        "Dex Entry": "#178",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation II"
+    },
+    "Mareep": {
+        "Dex Entry": "#179",
+        "Type": "Electric",
+        "Generation": "Generation II"
+    },
+    "Flaaffy": {
+        "Dex Entry": "#180",
+        "Type": "Electric",
+        "Generation": "Generation II"
+    },
+    "Ampharos": {
+        "Dex Entry": "#181",
+        "Type": "Electric",
+        "Generation": "Generation II"
+    },
+    "Bellossom": {
+        "Dex Entry": "#182",
+        "Type": "Grass",
+        "Generation": "Generation II"
+    },
+    "Marill": {
+        "Dex Entry": "#183",
+        "Type": "Water/Fairy",
+        "Generation": "Generation II"
+    },
+    "Azumarill": {
+        "Dex Entry": "#184",
+        "Type": "Water/Fairy",
+        "Generation": "Generation II"
+    },
+    "Sudowoodo": {
+        "Dex Entry": "#185",
+        "Type": "Rock",
+        "Generation": "Generation II"
+    },
+    "Politoed": {
+        "Dex Entry": "#186",
+        "Type": "Water",
+        "Generation": "Generation II"
+    },
+    "Hoppip": {
+        "Dex Entry": "#187",
+        "Type": "Grass/Flying",
+        "Generation": "Generation II"
+    },
+    "Skiploom": {
+        "Dex Entry": "#188",
+        "Type": "Grass/Flying",
+        "Generation": "Generation II"
+    },
+    "Jumpluff": {
+        "Dex Entry": "#189",
+        "Type": "Grass/Flying",
+        "Generation": "Generation II"
+    },
+    "Aipom": {
+        "Dex Entry": "#190",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Sunkern": {
+        "Dex Entry": "#191",
+        "Type": "Grass",
+        "Generation": "Generation II"
+    },
+    "Sunflora": {
+        "Dex Entry": "#192",
+        "Type": "Grass",
+        "Generation": "Generation II"
+    },
+    "Yanma": {
+        "Dex Entry": "#193",
+        "Type": "Bug/Flying",
+        "Generation": "Generation II"
+    },
+    "Wooper": {
+        "Dex Entry": "#194",
+        "Type": "Water/Ground",
+        "Generation": "Generation II"
+    },
+    "Quagsire": {
+        "Dex Entry": "#195",
+        "Type": "Water/Ground",
+        "Generation": "Generation II"
+    },
+    "Espeon": {
+        "Dex Entry": "#196",
+        "Type": "Psychic",
+        "Generation": "Generation II"
+    },
+    "Umbreon": {
+        "Dex Entry": "#197",
+        "Type": "Dark",
+        "Generation": "Generation II"
+    },
+    "Murkrow": {
+        "Dex Entry": "#198",
+        "Type": "Dark/Flying",
+        "Generation": "Generation II"
+    },
+    "Slowking [1]": {
+        "Dex Entry": "#199",
+        "Type": "Water/Psychic",
+        "Generation": "Generation II"
+    },
+    "Slowking [2]": {
+        "Dex Entry": "#199",
+        "Type": "Poison/Psychic",
+        "Generation": "Generation II"
+    },
+    "Misdreavus": {
+        "Dex Entry": "#200",
+        "Type": "Ghost",
+        "Generation": "Generation II"
+    },
+    "Unown": {
+        "Dex Entry": "#201",
+        "Type": "Psychic",
+        "Generation": "Generation II"
+    },
+    "Wobbuffet": {
+        "Dex Entry": "#202",
+        "Type": "Psychic",
+        "Generation": "Generation II"
+    },
+    "Girafarig": {
+        "Dex Entry": "#203",
+        "Type": "Normal/Psychic",
+        "Generation": "Generation II"
+    },
+    "Pineco": {
+        "Dex Entry": "#204",
+        "Type": "Bug",
+        "Generation": "Generation II"
+    },
+    "Forretress": {
+        "Dex Entry": "#205",
+        "Type": "Bug/Steel",
+        "Generation": "Generation II"
+    },
+    "Dunsparce": {
+        "Dex Entry": "#206",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Gligar": {
+        "Dex Entry": "#207",
+        "Type": "Ground/Flying",
+        "Generation": "Generation II"
+    },
+    "Steelix": {
+        "Dex Entry": "#208",
+        "Type": "Steel/Ground",
+        "Generation": "Generation II"
+    },
+    "Snubbull": {
+        "Dex Entry": "#209",
+        "Type": "Fairy",
+        "Generation": "Generation II"
+    },
+    "Granbull": {
+        "Dex Entry": "#210",
+        "Type": "Fairy",
+        "Generation": "Generation II"
+    },
+    "Qwilfish": {
+        "Dex Entry": "#211",
+        "Type": "Water/Poison",
+        "Generation": "Generation II"
+    },
+    "Scizor": {
+        "Dex Entry": "#212",
+        "Type": "Bug/Steel",
+        "Generation": "Generation II"
+    },
+    "Shuckle": {
+        "Dex Entry": "#213",
+        "Type": "Bug/Rock",
+        "Generation": "Generation II"
+    },
+    "Heracross": {
+        "Dex Entry": "#214",
+        "Type": "Bug/Fighting",
+        "Generation": "Generation II"
+    },
+    "Sneasel": {
+        "Dex Entry": "#215",
+        "Type": "Dark/Ice",
+        "Generation": "Generation II"
+    },
+    "Teddiursa": {
+        "Dex Entry": "#216",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Ursaring": {
+        "Dex Entry": "#217",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Slugma": {
+        "Dex Entry": "#218",
+        "Type": "Fire",
+        "Generation": "Generation II"
+    },
+    "Magcargo": {
+        "Dex Entry": "#219",
+        "Type": "Fire/Rock",
+        "Generation": "Generation II"
+    },
+    "Swinub": {
+        "Dex Entry": "#220",
+        "Type": "Ice/Ground",
+        "Generation": "Generation II"
+    },
+    "Piloswine": {
+        "Dex Entry": "#221",
+        "Type": "Ice/Ground",
+        "Generation": "Generation II"
+    },
+    "Corsola [1]": {
+        "Dex Entry": "#222",
+        "Type": "Water/Rock",
+        "Generation": "Generation II"
+    },
+    "Corsola [2]": {
+        "Dex Entry": "#222",
+        "Type": "Ghost",
+        "Generation": "Generation II"
+    },
+    "Remoraid": {
+        "Dex Entry": "#223",
+        "Type": "Water",
+        "Generation": "Generation II"
+    },
+    "Octillery": {
+        "Dex Entry": "#224",
+        "Type": "Water",
+        "Generation": "Generation II"
+    },
+    "Delibird": {
+        "Dex Entry": "#225",
+        "Type": "Ice/Flying",
+        "Generation": "Generation II"
+    },
+    "Mantine": {
+        "Dex Entry": "#226",
+        "Type": "Water/Flying",
+        "Generation": "Generation II"
+    },
+    "Skarmory": {
+        "Dex Entry": "#227",
+        "Type": "Steel/Flying",
+        "Generation": "Generation II"
+    },
+    "Houndour": {
+        "Dex Entry": "#228",
+        "Type": "Dark/Fire",
+        "Generation": "Generation II"
+    },
+    "Houndoom": {
+        "Dex Entry": "#229",
+        "Type": "Dark/Fire",
+        "Generation": "Generation II"
+    },
+    "Kingdra": {
+        "Dex Entry": "#230",
+        "Type": "Water/Dragon",
+        "Generation": "Generation II"
+    },
+    "Phanpy": {
+        "Dex Entry": "#231",
+        "Type": "Ground",
+        "Generation": "Generation II"
+    },
+    "Donphan": {
+        "Dex Entry": "#232",
+        "Type": "Ground",
+        "Generation": "Generation II"
+    },
+    "Porygon2": {
+        "Dex Entry": "#233",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Stantler": {
+        "Dex Entry": "#234",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Smeargle": {
+        "Dex Entry": "#235",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Tyrogue": {
+        "Dex Entry": "#236",
+        "Type": "Fighting",
+        "Generation": "Generation II"
+    },
+    "Hitmontop": {
+        "Dex Entry": "#237",
+        "Type": "Fighting",
+        "Generation": "Generation II"
+    },
+    "Smoochum": {
+        "Dex Entry": "#238",
+        "Type": "Ice/Psychic",
+        "Generation": "Generation II"
+    },
+    "Elekid": {
+        "Dex Entry": "#239",
+        "Type": "Electric",
+        "Generation": "Generation II"
+    },
+    "Magby": {
+        "Dex Entry": "#240",
+        "Type": "Fire",
+        "Generation": "Generation II"
+    },
+    "Miltank": {
+        "Dex Entry": "#241",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Blissey": {
+        "Dex Entry": "#242",
+        "Type": "Normal",
+        "Generation": "Generation II"
+    },
+    "Raikou": {
+        "Dex Entry": "#243",
+        "Type": "Electric",
+        "Generation": "Generation II"
+    },
+    "Entei": {
+        "Dex Entry": "#244",
+        "Type": "Fire",
+        "Generation": "Generation II"
+    },
+    "Suicune": {
+        "Dex Entry": "#245",
+        "Type": "Water",
+        "Generation": "Generation II"
+    },
+    "Larvitar": {
+        "Dex Entry": "#246",
+        "Type": "Rock/Ground",
+        "Generation": "Generation II"
+    },
+    "Pupitar": {
+        "Dex Entry": "#247",
+        "Type": "Rock/Ground",
+        "Generation": "Generation II"
+    },
+    "Tyranitar": {
+        "Dex Entry": "#248",
+        "Type": "Rock/Dark",
+        "Generation": "Generation II"
+    },
+    "Lugia": {
+        "Dex Entry": "#249",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation II"
+    },
+    "Ho-Oh": {
+        "Dex Entry": "#250",
+        "Type": "Fire/Flying",
+        "Generation": "Generation II"
+    },
+    "Celebi": {
+        "Dex Entry": "#251",
+        "Type": "Psychic/Grass",
+        "Generation": "Generation II"
+    },
+    "Treecko": {
+        "Dex Entry": "#252",
+        "Type": "Grass",
+        "Generation": "Generation III"
+    },
+    "Grovyle": {
+        "Dex Entry": "#253",
+        "Type": "Grass",
+        "Generation": "Generation III"
+    },
+    "Sceptile": {
+        "Dex Entry": "#254",
+        "Type": "Grass",
+        "Generation": "Generation III"
+    },
+    "Torchic": {
+        "Dex Entry": "#255",
+        "Type": "Fire",
+        "Generation": "Generation III"
+    },
+    "Combusken": {
+        "Dex Entry": "#256",
+        "Type": "Fire/Fighting",
+        "Generation": "Generation III"
+    },
+    "Blaziken": {
+        "Dex Entry": "#257",
+        "Type": "Fire/Fighting",
+        "Generation": "Generation III"
+    },
+    "Mudkip": {
+        "Dex Entry": "#258",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Marshtomp": {
+        "Dex Entry": "#259",
+        "Type": "Water/Ground",
+        "Generation": "Generation III"
+    },
+    "Swampert": {
+        "Dex Entry": "#260",
+        "Type": "Water/Ground",
+        "Generation": "Generation III"
+    },
+    "Poochyena": {
+        "Dex Entry": "#261",
+        "Type": "Dark",
+        "Generation": "Generation III"
+    },
+    "Mightyena": {
+        "Dex Entry": "#262",
+        "Type": "Dark",
+        "Generation": "Generation III"
+    },
+    "Zigzagoon [1]": {
+        "Dex Entry": "#263",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Zigzagoon [2]": {
+        "Dex Entry": "#263",
+        "Type": "Dark/Normal",
+        "Generation": "Generation III"
+    },
+    "Linoone [1]": {
+        "Dex Entry": "#264",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Linoone [2]": {
+        "Dex Entry": "#264",
+        "Type": "Dark/Normal",
+        "Generation": "Generation III"
+    },
+    "Wurmple": {
+        "Dex Entry": "#265",
+        "Type": "Bug",
+        "Generation": "Generation III"
+    },
+    "Silcoon": {
+        "Dex Entry": "#266",
+        "Type": "Bug",
+        "Generation": "Generation III"
+    },
+    "Beautifly": {
+        "Dex Entry": "#267",
+        "Type": "Bug/Flying",
+        "Generation": "Generation III"
+    },
+    "Cascoon": {
+        "Dex Entry": "#268",
+        "Type": "Bug",
+        "Generation": "Generation III"
+    },
+    "Dustox": {
+        "Dex Entry": "#269",
+        "Type": "Bug/Poison",
+        "Generation": "Generation III"
+    },
+    "Lotad": {
+        "Dex Entry": "#270",
+        "Type": "Water/Grass",
+        "Generation": "Generation III"
+    },
+    "Lombre": {
+        "Dex Entry": "#271",
+        "Type": "Water/Grass",
+        "Generation": "Generation III"
+    },
+    "Ludicolo": {
+        "Dex Entry": "#272",
+        "Type": "Water/Grass",
+        "Generation": "Generation III"
+    },
+    "Seedot": {
+        "Dex Entry": "#273",
+        "Type": "Grass",
+        "Generation": "Generation III"
+    },
+    "Nuzleaf": {
+        "Dex Entry": "#274",
+        "Type": "Grass/Dark",
+        "Generation": "Generation III"
+    },
+    "Shiftry": {
+        "Dex Entry": "#275",
+        "Type": "Grass/Dark",
+        "Generation": "Generation III"
+    },
+    "Taillow": {
+        "Dex Entry": "#276",
+        "Type": "Normal/Flying",
+        "Generation": "Generation III"
+    },
+    "Swellow": {
+        "Dex Entry": "#277",
+        "Type": "Normal/Flying",
+        "Generation": "Generation III"
+    },
+    "Wingull": {
+        "Dex Entry": "#278",
+        "Type": "Water/Flying",
+        "Generation": "Generation III"
+    },
+    "Pelipper": {
+        "Dex Entry": "#279",
+        "Type": "Water/Flying",
+        "Generation": "Generation III"
+    },
+    "Ralts": {
+        "Dex Entry": "#280",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation III"
+    },
+    "Kirlia": {
+        "Dex Entry": "#281",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation III"
+    },
+    "Gardevoir": {
+        "Dex Entry": "#282",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation III"
+    },
+    "Surskit": {
+        "Dex Entry": "#283",
+        "Type": "Bug/Water",
+        "Generation": "Generation III"
+    },
+    "Masquerain": {
+        "Dex Entry": "#284",
+        "Type": "Bug/Flying",
+        "Generation": "Generation III"
+    },
+    "Shroomish": {
+        "Dex Entry": "#285",
+        "Type": "Grass",
+        "Generation": "Generation III"
+    },
+    "Breloom": {
+        "Dex Entry": "#286",
+        "Type": "Grass/Fighting",
+        "Generation": "Generation III"
+    },
+    "Slakoth": {
+        "Dex Entry": "#287",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Vigoroth": {
+        "Dex Entry": "#288",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Slaking": {
+        "Dex Entry": "#289",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Nincada": {
+        "Dex Entry": "#290",
+        "Type": "Bug/Ground",
+        "Generation": "Generation III"
+    },
+    "Ninjask": {
+        "Dex Entry": "#291",
+        "Type": "Bug/Flying",
+        "Generation": "Generation III"
+    },
+    "Shedinja": {
+        "Dex Entry": "#292",
+        "Type": "Bug/Ghost",
+        "Generation": "Generation III"
+    },
+    "Whismur": {
+        "Dex Entry": "#293",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Loudred": {
+        "Dex Entry": "#294",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Exploud": {
+        "Dex Entry": "#295",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Makuhita": {
+        "Dex Entry": "#296",
+        "Type": "Fighting",
+        "Generation": "Generation III"
+    },
+    "Hariyama": {
+        "Dex Entry": "#297",
+        "Type": "Fighting",
+        "Generation": "Generation III"
+    },
+    "Azurill": {
+        "Dex Entry": "#298",
+        "Type": "Normal/Fairy",
+        "Generation": "Generation III"
+    },
+    "Nosepass": {
+        "Dex Entry": "#299",
+        "Type": "Rock",
+        "Generation": "Generation III"
+    },
+    "Skitty": {
+        "Dex Entry": "#300",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Delcatty": {
+        "Dex Entry": "#301",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Sableye": {
+        "Dex Entry": "#302",
+        "Type": "Dark/Ghost",
+        "Generation": "Generation III"
+    },
+    "Mawile": {
+        "Dex Entry": "#303",
+        "Type": "Steel/Fairy",
+        "Generation": "Generation III"
+    },
+    "Aron": {
+        "Dex Entry": "#304",
+        "Type": "Steel/Rock",
+        "Generation": "Generation III"
+    },
+    "Lairon": {
+        "Dex Entry": "#305",
+        "Type": "Steel/Rock",
+        "Generation": "Generation III"
+    },
+    "Aggron": {
+        "Dex Entry": "#306",
+        "Type": "Steel/Rock",
+        "Generation": "Generation III"
+    },
+    "Meditite": {
+        "Dex Entry": "#307",
+        "Type": "Fighting/Psychic",
+        "Generation": "Generation III"
+    },
+    "Medicham": {
+        "Dex Entry": "#308",
+        "Type": "Fighting/Psychic",
+        "Generation": "Generation III"
+    },
+    "Electrike": {
+        "Dex Entry": "#309",
+        "Type": "Electric",
+        "Generation": "Generation III"
+    },
+    "Manectric": {
+        "Dex Entry": "#310",
+        "Type": "Electric",
+        "Generation": "Generation III"
+    },
+    "Plusle": {
+        "Dex Entry": "#311",
+        "Type": "Electric",
+        "Generation": "Generation III"
+    },
+    "Minun": {
+        "Dex Entry": "#312",
+        "Type": "Electric",
+        "Generation": "Generation III"
+    },
+    "Volbeat": {
+        "Dex Entry": "#313",
+        "Type": "Bug",
+        "Generation": "Generation III"
+    },
+    "Illumise": {
+        "Dex Entry": "#314",
+        "Type": "Bug",
+        "Generation": "Generation III"
+    },
+    "Roselia": {
+        "Dex Entry": "#315",
+        "Type": "Grass/Poison",
+        "Generation": "Generation III"
+    },
+    "Gulpin": {
+        "Dex Entry": "#316",
+        "Type": "Poison",
+        "Generation": "Generation III"
+    },
+    "Swalot": {
+        "Dex Entry": "#317",
+        "Type": "Poison",
+        "Generation": "Generation III"
+    },
+    "Carvanha": {
+        "Dex Entry": "#318",
+        "Type": "Water/Dark",
+        "Generation": "Generation III"
+    },
+    "Sharpedo": {
+        "Dex Entry": "#319",
+        "Type": "Water/Dark",
+        "Generation": "Generation III"
+    },
+    "Wailmer": {
+        "Dex Entry": "#320",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Wailord": {
+        "Dex Entry": "#321",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Numel": {
+        "Dex Entry": "#322",
+        "Type": "Fire/Ground",
+        "Generation": "Generation III"
+    },
+    "Camerupt": {
+        "Dex Entry": "#323",
+        "Type": "Fire/Ground",
+        "Generation": "Generation III"
+    },
+    "Torkoal": {
+        "Dex Entry": "#324",
+        "Type": "Fire",
+        "Generation": "Generation III"
+    },
+    "Spoink": {
+        "Dex Entry": "#325",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Grumpig": {
+        "Dex Entry": "#326",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Spinda": {
+        "Dex Entry": "#327",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Trapinch": {
+        "Dex Entry": "#328",
+        "Type": "Ground",
+        "Generation": "Generation III"
+    },
+    "Vibrava": {
+        "Dex Entry": "#329",
+        "Type": "Ground/Dragon",
+        "Generation": "Generation III"
+    },
+    "Flygon": {
+        "Dex Entry": "#330",
+        "Type": "Ground/Dragon",
+        "Generation": "Generation III"
+    },
+    "Cacnea": {
+        "Dex Entry": "#331",
+        "Type": "Grass",
+        "Generation": "Generation III"
+    },
+    "Cacturne": {
+        "Dex Entry": "#332",
+        "Type": "Grass/Dark",
+        "Generation": "Generation III"
+    },
+    "Swablu": {
+        "Dex Entry": "#333",
+        "Type": "Normal/Flying",
+        "Generation": "Generation III"
+    },
+    "Altaria": {
+        "Dex Entry": "#334",
+        "Type": "Dragon/Flying",
+        "Generation": "Generation III"
+    },
+    "Zangoose": {
+        "Dex Entry": "#335",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Seviper": {
+        "Dex Entry": "#336",
+        "Type": "Poison",
+        "Generation": "Generation III"
+    },
+    "Lunatone": {
+        "Dex Entry": "#337",
+        "Type": "Rock/Psychic",
+        "Generation": "Generation III"
+    },
+    "Solrock": {
+        "Dex Entry": "#338",
+        "Type": "Rock/Psychic",
+        "Generation": "Generation III"
+    },
+    "Barboach": {
+        "Dex Entry": "#339",
+        "Type": "Water/Ground",
+        "Generation": "Generation III"
+    },
+    "Whiscash": {
+        "Dex Entry": "#340",
+        "Type": "Water/Ground",
+        "Generation": "Generation III"
+    },
+    "Corphish": {
+        "Dex Entry": "#341",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Crawdaunt": {
+        "Dex Entry": "#342",
+        "Type": "Water/Dark",
+        "Generation": "Generation III"
+    },
+    "Baltoy": {
+        "Dex Entry": "#343",
+        "Type": "Ground/Psychic",
+        "Generation": "Generation III"
+    },
+    "Claydol": {
+        "Dex Entry": "#344",
+        "Type": "Ground/Psychic",
+        "Generation": "Generation III"
+    },
+    "Lileep": {
+        "Dex Entry": "#345",
+        "Type": "Rock/Grass",
+        "Generation": "Generation III"
+    },
+    "Cradily": {
+        "Dex Entry": "#346",
+        "Type": "Rock/Grass",
+        "Generation": "Generation III"
+    },
+    "Anorith": {
+        "Dex Entry": "#347",
+        "Type": "Rock/Bug",
+        "Generation": "Generation III"
+    },
+    "Armaldo": {
+        "Dex Entry": "#348",
+        "Type": "Rock/Bug",
+        "Generation": "Generation III"
+    },
+    "Feebas": {
+        "Dex Entry": "#349",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Milotic": {
+        "Dex Entry": "#350",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Castform [1]": {
+        "Dex Entry": "#351",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Castform [2]": {
+        "Dex Entry": "#351",
+        "Type": "Fire",
+        "Generation": "Generation III"
+    },
+    "Castform [3]": {
+        "Dex Entry": "#351",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Castform [4]": {
+        "Dex Entry": "#351",
+        "Type": "Ice",
+        "Generation": "Generation III"
+    },
+    "Kecleon": {
+        "Dex Entry": "#352",
+        "Type": "Normal",
+        "Generation": "Generation III"
+    },
+    "Shuppet": {
+        "Dex Entry": "#353",
+        "Type": "Ghost",
+        "Generation": "Generation III"
+    },
+    "Banette": {
+        "Dex Entry": "#354",
+        "Type": "Ghost",
+        "Generation": "Generation III"
+    },
+    "Duskull": {
+        "Dex Entry": "#355",
+        "Type": "Ghost",
+        "Generation": "Generation III"
+    },
+    "Dusclops": {
+        "Dex Entry": "#356",
+        "Type": "Ghost",
+        "Generation": "Generation III"
+    },
+    "Tropius": {
+        "Dex Entry": "#357",
+        "Type": "Grass/Flying",
+        "Generation": "Generation III"
+    },
+    "Chimecho": {
+        "Dex Entry": "#358",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Absol": {
+        "Dex Entry": "#359",
+        "Type": "Dark",
+        "Generation": "Generation III"
+    },
+    "Wynaut": {
+        "Dex Entry": "#360",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Snorunt": {
+        "Dex Entry": "#361",
+        "Type": "Ice",
+        "Generation": "Generation III"
+    },
+    "Glalie": {
+        "Dex Entry": "#362",
+        "Type": "Ice",
+        "Generation": "Generation III"
+    },
+    "Spheal": {
+        "Dex Entry": "#363",
+        "Type": "Ice/Water",
+        "Generation": "Generation III"
+    },
+    "Sealeo": {
+        "Dex Entry": "#364",
+        "Type": "Ice/Water",
+        "Generation": "Generation III"
+    },
+    "Walrein": {
+        "Dex Entry": "#365",
+        "Type": "Ice/Water",
+        "Generation": "Generation III"
+    },
+    "Clamperl": {
+        "Dex Entry": "#366",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Huntail": {
+        "Dex Entry": "#367",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Gorebyss": {
+        "Dex Entry": "#368",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Relicanth": {
+        "Dex Entry": "#369",
+        "Type": "Water/Rock",
+        "Generation": "Generation III"
+    },
+    "Luvdisc": {
+        "Dex Entry": "#370",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Bagon": {
+        "Dex Entry": "#371",
+        "Type": "Dragon",
+        "Generation": "Generation III"
+    },
+    "Shelgon": {
+        "Dex Entry": "#372",
+        "Type": "Dragon",
+        "Generation": "Generation III"
+    },
+    "Salamence": {
+        "Dex Entry": "#373",
+        "Type": "Dragon/Flying",
+        "Generation": "Generation III"
+    },
+    "Beldum": {
+        "Dex Entry": "#374",
+        "Type": "Steel/Psychic",
+        "Generation": "Generation III"
+    },
+    "Metang": {
+        "Dex Entry": "#375",
+        "Type": "Steel/Psychic",
+        "Generation": "Generation III"
+    },
+    "Metagross": {
+        "Dex Entry": "#376",
+        "Type": "Steel/Psychic",
+        "Generation": "Generation III"
+    },
+    "Regirock": {
+        "Dex Entry": "#377",
+        "Type": "Rock",
+        "Generation": "Generation III"
+    },
+    "Regice": {
+        "Dex Entry": "#378",
+        "Type": "Ice",
+        "Generation": "Generation III"
+    },
+    "Registeel": {
+        "Dex Entry": "#379",
+        "Type": "Steel",
+        "Generation": "Generation III"
+    },
+    "Latias": {
+        "Dex Entry": "#380",
+        "Type": "Dragon/Psychic",
+        "Generation": "Generation III"
+    },
+    "Latios": {
+        "Dex Entry": "#381",
+        "Type": "Dragon/Psychic",
+        "Generation": "Generation III"
+    },
+    "Kyogre": {
+        "Dex Entry": "#382",
+        "Type": "Water",
+        "Generation": "Generation III"
+    },
+    "Groudon": {
+        "Dex Entry": "#383",
+        "Type": "Ground",
+        "Generation": "Generation III"
+    },
+    "Rayquaza": {
+        "Dex Entry": "#384",
+        "Type": "Dragon/Flying",
+        "Generation": "Generation III"
+    },
+    "Jirachi": {
+        "Dex Entry": "#385",
+        "Type": "Steel/Psychic",
+        "Generation": "Generation III"
+    },
+    "Deoxys [1]": {
+        "Dex Entry": "#386",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Deoxys [2]": {
+        "Dex Entry": "#386",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Deoxys [3]": {
+        "Dex Entry": "#386",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Deoxys [4]": {
+        "Dex Entry": "#386",
+        "Type": "Psychic",
+        "Generation": "Generation III"
+    },
+    "Turtwig": {
+        "Dex Entry": "#387",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Grotle": {
+        "Dex Entry": "#388",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Torterra": {
+        "Dex Entry": "#389",
+        "Type": "Grass/Ground",
+        "Generation": "Generation IV"
+    },
+    "Chimchar": {
+        "Dex Entry": "#390",
+        "Type": "Fire",
+        "Generation": "Generation IV"
+    },
+    "Monferno": {
+        "Dex Entry": "#391",
+        "Type": "Fire/Fighting",
+        "Generation": "Generation IV"
+    },
+    "Infernape": {
+        "Dex Entry": "#392",
+        "Type": "Fire/Fighting",
+        "Generation": "Generation IV"
+    },
+    "Piplup": {
+        "Dex Entry": "#393",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Prinplup": {
+        "Dex Entry": "#394",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Empoleon": {
+        "Dex Entry": "#395",
+        "Type": "Water/Steel",
+        "Generation": "Generation IV"
+    },
+    "Starly": {
+        "Dex Entry": "#396",
+        "Type": "Normal/Flying",
+        "Generation": "Generation IV"
+    },
+    "Staravia": {
+        "Dex Entry": "#397",
+        "Type": "Normal/Flying",
+        "Generation": "Generation IV"
+    },
+    "Staraptor": {
+        "Dex Entry": "#398",
+        "Type": "Normal/Flying",
+        "Generation": "Generation IV"
+    },
+    "Bidoof": {
+        "Dex Entry": "#399",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Bibarel": {
+        "Dex Entry": "#400",
+        "Type": "Normal/Water",
+        "Generation": "Generation IV"
+    },
+    "Kricketot": {
+        "Dex Entry": "#401",
+        "Type": "Bug",
+        "Generation": "Generation IV"
+    },
+    "Kricketune": {
+        "Dex Entry": "#402",
+        "Type": "Bug",
+        "Generation": "Generation IV"
+    },
+    "Shinx": {
+        "Dex Entry": "#403",
+        "Type": "Electric",
+        "Generation": "Generation IV"
+    },
+    "Luxio": {
+        "Dex Entry": "#404",
+        "Type": "Electric",
+        "Generation": "Generation IV"
+    },
+    "Luxray": {
+        "Dex Entry": "#405",
+        "Type": "Electric",
+        "Generation": "Generation IV"
+    },
+    "Budew": {
+        "Dex Entry": "#406",
+        "Type": "Grass/Poison",
+        "Generation": "Generation IV"
+    },
+    "Roserade": {
+        "Dex Entry": "#407",
+        "Type": "Grass/Poison",
+        "Generation": "Generation IV"
+    },
+    "Cranidos": {
+        "Dex Entry": "#408",
+        "Type": "Rock",
+        "Generation": "Generation IV"
+    },
+    "Rampardos": {
+        "Dex Entry": "#409",
+        "Type": "Rock",
+        "Generation": "Generation IV"
+    },
+    "Shieldon": {
+        "Dex Entry": "#410",
+        "Type": "Rock/Steel",
+        "Generation": "Generation IV"
+    },
+    "Bastiodon": {
+        "Dex Entry": "#411",
+        "Type": "Rock/Steel",
+        "Generation": "Generation IV"
+    },
+    "Burmy [1]": {
+        "Dex Entry": "#412",
+        "Type": "Bug",
+        "Generation": "Generation IV"
+    },
+    "Burmy [2]": {
+        "Dex Entry": "#412",
+        "Type": "Bug",
+        "Generation": "Generation IV"
+    },
+    "Burmy [3]": {
+        "Dex Entry": "#412",
+        "Type": "Bug",
+        "Generation": "Generation IV"
+    },
+    "Wormadam [1]": {
+        "Dex Entry": "#413",
+        "Type": "Bug/Grass",
+        "Generation": "Generation IV"
+    },
+    "Wormadam [2]": {
+        "Dex Entry": "#413",
+        "Type": "Bug/Ground",
+        "Generation": "Generation IV"
+    },
+    "Wormadam [3]": {
+        "Dex Entry": "#413",
+        "Type": "Bug/Steel",
+        "Generation": "Generation IV"
+    },
+    "Mothim": {
+        "Dex Entry": "#414",
+        "Type": "Bug/Flying",
+        "Generation": "Generation IV"
+    },
+    "Combee": {
+        "Dex Entry": "#415",
+        "Type": "Bug/Flying",
+        "Generation": "Generation IV"
+    },
+    "Vespiquen": {
+        "Dex Entry": "#416",
+        "Type": "Bug/Flying",
+        "Generation": "Generation IV"
+    },
+    "Pachirisu": {
+        "Dex Entry": "#417",
+        "Type": "Electric",
+        "Generation": "Generation IV"
+    },
+    "Buizel": {
+        "Dex Entry": "#418",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Floatzel": {
+        "Dex Entry": "#419",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Cherubi": {
+        "Dex Entry": "#420",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Cherrim": {
+        "Dex Entry": "#421",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Shellos [1]": {
+        "Dex Entry": "#422",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Shellos [2]": {
+        "Dex Entry": "#422",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Gastrodon [1]": {
+        "Dex Entry": "#423",
+        "Type": "Water/Ground",
+        "Generation": "Generation IV"
+    },
+    "Gastrodon [2]": {
+        "Dex Entry": "#423",
+        "Type": "Water/Ground",
+        "Generation": "Generation IV"
+    },
+    "Ambipom": {
+        "Dex Entry": "#424",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Drifloon": {
+        "Dex Entry": "#425",
+        "Type": "Ghost/Flying",
+        "Generation": "Generation IV"
+    },
+    "Drifblim": {
+        "Dex Entry": "#426",
+        "Type": "Ghost/Flying",
+        "Generation": "Generation IV"
+    },
+    "Buneary": {
+        "Dex Entry": "#427",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Lopunny": {
+        "Dex Entry": "#428",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Mismagius": {
+        "Dex Entry": "#429",
+        "Type": "Ghost",
+        "Generation": "Generation IV"
+    },
+    "Honchkrow": {
+        "Dex Entry": "#430",
+        "Type": "Dark/Flying",
+        "Generation": "Generation IV"
+    },
+    "Glameow": {
+        "Dex Entry": "#431",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Purugly": {
+        "Dex Entry": "#432",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Chingling": {
+        "Dex Entry": "#433",
+        "Type": "Psychic",
+        "Generation": "Generation IV"
+    },
+    "Stunky": {
+        "Dex Entry": "#434",
+        "Type": "Poison/Dark",
+        "Generation": "Generation IV"
+    },
+    "Skuntank": {
+        "Dex Entry": "#435",
+        "Type": "Poison/Dark",
+        "Generation": "Generation IV"
+    },
+    "Bronzor": {
+        "Dex Entry": "#436",
+        "Type": "Steel/Psychic",
+        "Generation": "Generation IV"
+    },
+    "Bronzong": {
+        "Dex Entry": "#437",
+        "Type": "Steel/Psychic",
+        "Generation": "Generation IV"
+    },
+    "Bonsly": {
+        "Dex Entry": "#438",
+        "Type": "Rock",
+        "Generation": "Generation IV"
+    },
+    "Mime Jr.": {
+        "Dex Entry": "#439",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation IV"
+    },
+    "Happiny": {
+        "Dex Entry": "#440",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Chatot": {
+        "Dex Entry": "#441",
+        "Type": "Normal/Flying",
+        "Generation": "Generation IV"
+    },
+    "Spiritomb": {
+        "Dex Entry": "#442",
+        "Type": "Ghost/Dark",
+        "Generation": "Generation IV"
+    },
+    "Gible": {
+        "Dex Entry": "#443",
+        "Type": "Dragon/Ground",
+        "Generation": "Generation IV"
+    },
+    "Gabite": {
+        "Dex Entry": "#444",
+        "Type": "Dragon/Ground",
+        "Generation": "Generation IV"
+    },
+    "Garchomp": {
+        "Dex Entry": "#445",
+        "Type": "Dragon/Ground",
+        "Generation": "Generation IV"
+    },
+    "Munchlax": {
+        "Dex Entry": "#446",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Riolu": {
+        "Dex Entry": "#447",
+        "Type": "Fighting",
+        "Generation": "Generation IV"
+    },
+    "Lucario": {
+        "Dex Entry": "#448",
+        "Type": "Fighting/Steel",
+        "Generation": "Generation IV"
+    },
+    "Hippopotas": {
+        "Dex Entry": "#449",
+        "Type": "Ground",
+        "Generation": "Generation IV"
+    },
+    "Hippowdon": {
+        "Dex Entry": "#450",
+        "Type": "Ground",
+        "Generation": "Generation IV"
+    },
+    "Skorupi": {
+        "Dex Entry": "#451",
+        "Type": "Poison/Bug",
+        "Generation": "Generation IV"
+    },
+    "Drapion": {
+        "Dex Entry": "#452",
+        "Type": "Poison/Dark",
+        "Generation": "Generation IV"
+    },
+    "Croagunk": {
+        "Dex Entry": "#453",
+        "Type": "Poison/Fighting",
+        "Generation": "Generation IV"
+    },
+    "Toxicroak": {
+        "Dex Entry": "#454",
+        "Type": "Poison/Fighting",
+        "Generation": "Generation IV"
+    },
+    "Carnivine": {
+        "Dex Entry": "#455",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Finneon": {
+        "Dex Entry": "#456",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Lumineon": {
+        "Dex Entry": "#457",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Mantyke": {
+        "Dex Entry": "#458",
+        "Type": "Water/Flying",
+        "Generation": "Generation IV"
+    },
+    "Snover": {
+        "Dex Entry": "#459",
+        "Type": "Grass/Ice",
+        "Generation": "Generation IV"
+    },
+    "Abomasnow": {
+        "Dex Entry": "#460",
+        "Type": "Grass/Ice",
+        "Generation": "Generation IV"
+    },
+    "Weavile": {
+        "Dex Entry": "#461",
+        "Type": "Dark/Ice",
+        "Generation": "Generation IV"
+    },
+    "Magnezone": {
+        "Dex Entry": "#462",
+        "Type": "Electric/Steel",
+        "Generation": "Generation IV"
+    },
+    "Lickilicky": {
+        "Dex Entry": "#463",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Rhyperior": {
+        "Dex Entry": "#464",
+        "Type": "Ground/Rock",
+        "Generation": "Generation IV"
+    },
+    "Tangrowth": {
+        "Dex Entry": "#465",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Electivire": {
+        "Dex Entry": "#466",
+        "Type": "Electric",
+        "Generation": "Generation IV"
+    },
+    "Magmortar": {
+        "Dex Entry": "#467",
+        "Type": "Fire",
+        "Generation": "Generation IV"
+    },
+    "Togekiss": {
+        "Dex Entry": "#468",
+        "Type": "Fairy/Flying",
+        "Generation": "Generation IV"
+    },
+    "Yanmega": {
+        "Dex Entry": "#469",
+        "Type": "Bug/Flying",
+        "Generation": "Generation IV"
+    },
+    "Leafeon": {
+        "Dex Entry": "#470",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Glaceon": {
+        "Dex Entry": "#471",
+        "Type": "Ice",
+        "Generation": "Generation IV"
+    },
+    "Gliscor": {
+        "Dex Entry": "#472",
+        "Type": "Ground/Flying",
+        "Generation": "Generation IV"
+    },
+    "Mamoswine": {
+        "Dex Entry": "#473",
+        "Type": "Ice/Ground",
+        "Generation": "Generation IV"
+    },
+    "Porygon-Z": {
+        "Dex Entry": "#474",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Gallade": {
+        "Dex Entry": "#475",
+        "Type": "Psychic/Fighting",
+        "Generation": "Generation IV"
+    },
+    "Probopass": {
+        "Dex Entry": "#476",
+        "Type": "Rock/Steel",
+        "Generation": "Generation IV"
+    },
+    "Dusknoir": {
+        "Dex Entry": "#477",
+        "Type": "Ghost",
+        "Generation": "Generation IV"
+    },
+    "Froslass": {
+        "Dex Entry": "#478",
+        "Type": "Ice/Ghost",
+        "Generation": "Generation IV"
+    },
+    "Rotom [1]": {
+        "Dex Entry": "#479",
+        "Type": "Electric/Ghost",
+        "Generation": "Generation IV"
+    },
+    "Rotom [2]": {
+        "Dex Entry": "#479",
+        "Type": "Electric/Fire",
+        "Generation": "Generation IV"
+    },
+    "Rotom [3]": {
+        "Dex Entry": "#479",
+        "Type": "Electric/Water",
+        "Generation": "Generation IV"
+    },
+    "Rotom [4]": {
+        "Dex Entry": "#479",
+        "Type": "Electric/Ice",
+        "Generation": "Generation IV"
+    },
+    "Rotom [5]": {
+        "Dex Entry": "#479",
+        "Type": "Electric/Flying",
+        "Generation": "Generation IV"
+    },
+    "Rotom [6]": {
+        "Dex Entry": "#479",
+        "Type": "Electric/Grass",
+        "Generation": "Generation IV"
+    },
+    "Uxie": {
+        "Dex Entry": "#480",
+        "Type": "Psychic",
+        "Generation": "Generation IV"
+    },
+    "Mesprit": {
+        "Dex Entry": "#481",
+        "Type": "Psychic",
+        "Generation": "Generation IV"
+    },
+    "Azelf": {
+        "Dex Entry": "#482",
+        "Type": "Psychic",
+        "Generation": "Generation IV"
+    },
+    "Dialga": {
+        "Dex Entry": "#483",
+        "Type": "Steel/Dragon",
+        "Generation": "Generation IV"
+    },
+    "Palkia": {
+        "Dex Entry": "#484",
+        "Type": "Water/Dragon",
+        "Generation": "Generation IV"
+    },
+    "Heatran": {
+        "Dex Entry": "#485",
+        "Type": "Fire/Steel",
+        "Generation": "Generation IV"
+    },
+    "Regigigas": {
+        "Dex Entry": "#486",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Giratina [1]": {
+        "Dex Entry": "#487",
+        "Type": "Ghost/Dragon",
+        "Generation": "Generation IV"
+    },
+    "Giratina [2]": {
+        "Dex Entry": "#487",
+        "Type": "Ghost/Dragon",
+        "Generation": "Generation IV"
+    },
+    "Cresselia": {
+        "Dex Entry": "#488",
+        "Type": "Psychic",
+        "Generation": "Generation IV"
+    },
+    "Phione": {
+        "Dex Entry": "#489",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Manaphy": {
+        "Dex Entry": "#490",
+        "Type": "Water",
+        "Generation": "Generation IV"
+    },
+    "Darkrai": {
+        "Dex Entry": "#491",
+        "Type": "Dark",
+        "Generation": "Generation IV"
+    },
+    "Shaymin [1]": {
+        "Dex Entry": "#492",
+        "Type": "Grass",
+        "Generation": "Generation IV"
+    },
+    "Shaymin [2]": {
+        "Dex Entry": "#492",
+        "Type": "Grass/Flying",
+        "Generation": "Generation IV"
+    },
+    "Arceus": {
+        "Dex Entry": "#493",
+        "Type": "Normal",
+        "Generation": "Generation IV"
+    },
+    "Victini": {
+        "Dex Entry": "#494",
+        "Type": "Psychic/Fire",
+        "Generation": "Generation V"
+    },
+    "Snivy": {
+        "Dex Entry": "#495",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Servine": {
+        "Dex Entry": "#496",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Serperior": {
+        "Dex Entry": "#497",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Tepig": {
+        "Dex Entry": "#498",
+        "Type": "Fire",
+        "Generation": "Generation V"
+    },
+    "Pignite": {
+        "Dex Entry": "#499",
+        "Type": "Fire/Fighting",
+        "Generation": "Generation V"
+    },
+    "Emboar": {
+        "Dex Entry": "#500",
+        "Type": "Fire/Fighting",
+        "Generation": "Generation V"
+    },
+    "Oshawott": {
+        "Dex Entry": "#501",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Dewott": {
+        "Dex Entry": "#502",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Samurott": {
+        "Dex Entry": "#503",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Patrat": {
+        "Dex Entry": "#504",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Watchog": {
+        "Dex Entry": "#505",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Lillipup": {
+        "Dex Entry": "#506",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Herdier": {
+        "Dex Entry": "#507",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Stoutland": {
+        "Dex Entry": "#508",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Purrloin": {
+        "Dex Entry": "#509",
+        "Type": "Dark",
+        "Generation": "Generation V"
+    },
+    "Liepard": {
+        "Dex Entry": "#510",
+        "Type": "Dark",
+        "Generation": "Generation V"
+    },
+    "Pansage": {
+        "Dex Entry": "#511",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Simisage": {
+        "Dex Entry": "#512",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Pansear": {
+        "Dex Entry": "#513",
+        "Type": "Fire",
+        "Generation": "Generation V"
+    },
+    "Simisear": {
+        "Dex Entry": "#514",
+        "Type": "Fire",
+        "Generation": "Generation V"
+    },
+    "Panpour": {
+        "Dex Entry": "#515",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Simipour": {
+        "Dex Entry": "#516",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Munna": {
+        "Dex Entry": "#517",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Musharna": {
+        "Dex Entry": "#518",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Pidove": {
+        "Dex Entry": "#519",
+        "Type": "Normal/Flying",
+        "Generation": "Generation V"
+    },
+    "Tranquill": {
+        "Dex Entry": "#520",
+        "Type": "Normal/Flying",
+        "Generation": "Generation V"
+    },
+    "Unfezant [1]": {
+        "Dex Entry": "#521",
+        "Type": "Normal/Flying",
+        "Generation": "Generation V"
+    },
+    "Unfezant [2]": {
+        "Dex Entry": "#521",
+        "Type": "Normal/Flying",
+        "Generation": "Generation V"
+    },
+    "Blitzle": {
+        "Dex Entry": "#522",
+        "Type": "Electric",
+        "Generation": "Generation V"
+    },
+    "Zebstrika": {
+        "Dex Entry": "#523",
+        "Type": "Electric",
+        "Generation": "Generation V"
+    },
+    "Roggenrola": {
+        "Dex Entry": "#524",
+        "Type": "Rock",
+        "Generation": "Generation V"
+    },
+    "Boldore": {
+        "Dex Entry": "#525",
+        "Type": "Rock",
+        "Generation": "Generation V"
+    },
+    "Gigalith": {
+        "Dex Entry": "#526",
+        "Type": "Rock",
+        "Generation": "Generation V"
+    },
+    "Woobat": {
+        "Dex Entry": "#527",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation V"
+    },
+    "Swoobat": {
+        "Dex Entry": "#528",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation V"
+    },
+    "Drilbur": {
+        "Dex Entry": "#529",
+        "Type": "Ground",
+        "Generation": "Generation V"
+    },
+    "Excadrill": {
+        "Dex Entry": "#530",
+        "Type": "Ground/Steel",
+        "Generation": "Generation V"
+    },
+    "Audino": {
+        "Dex Entry": "#531",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Timburr": {
+        "Dex Entry": "#532",
+        "Type": "Fighting",
+        "Generation": "Generation V"
+    },
+    "Gurdurr": {
+        "Dex Entry": "#533",
+        "Type": "Fighting",
+        "Generation": "Generation V"
+    },
+    "Conkeldurr": {
+        "Dex Entry": "#534",
+        "Type": "Fighting",
+        "Generation": "Generation V"
+    },
+    "Tympole": {
+        "Dex Entry": "#535",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Palpitoad": {
+        "Dex Entry": "#536",
+        "Type": "Water/Ground",
+        "Generation": "Generation V"
+    },
+    "Seismitoad": {
+        "Dex Entry": "#537",
+        "Type": "Water/Ground",
+        "Generation": "Generation V"
+    },
+    "Throh": {
+        "Dex Entry": "#538",
+        "Type": "Fighting",
+        "Generation": "Generation V"
+    },
+    "Sawk": {
+        "Dex Entry": "#539",
+        "Type": "Fighting",
+        "Generation": "Generation V"
+    },
+    "Sewaddle": {
+        "Dex Entry": "#540",
+        "Type": "Bug/Grass",
+        "Generation": "Generation V"
+    },
+    "Swadloon": {
+        "Dex Entry": "#541",
+        "Type": "Bug/Grass",
+        "Generation": "Generation V"
+    },
+    "Leavanny": {
+        "Dex Entry": "#542",
+        "Type": "Bug/Grass",
+        "Generation": "Generation V"
+    },
+    "Venipede": {
+        "Dex Entry": "#543",
+        "Type": "Bug/Poison",
+        "Generation": "Generation V"
+    },
+    "Whirlipede": {
+        "Dex Entry": "#544",
+        "Type": "Bug/Poison",
+        "Generation": "Generation V"
+    },
+    "Scolipede": {
+        "Dex Entry": "#545",
+        "Type": "Bug/Poison",
+        "Generation": "Generation V"
+    },
+    "Cottonee": {
+        "Dex Entry": "#546",
+        "Type": "Grass/Fairy",
+        "Generation": "Generation V"
+    },
+    "Whimsicott": {
+        "Dex Entry": "#547",
+        "Type": "Grass/Fairy",
+        "Generation": "Generation V"
+    },
+    "Petilil": {
+        "Dex Entry": "#548",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Lilligant": {
+        "Dex Entry": "#549",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Basculin [1]": {
+        "Dex Entry": "#550",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Basculin [2]": {
+        "Dex Entry": "#550",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Sandile": {
+        "Dex Entry": "#551",
+        "Type": "Ground/Dark",
+        "Generation": "Generation V"
+    },
+    "Krokorok": {
+        "Dex Entry": "#552",
+        "Type": "Ground/Dark",
+        "Generation": "Generation V"
+    },
+    "Krookodile": {
+        "Dex Entry": "#553",
+        "Type": "Ground/Dark",
+        "Generation": "Generation V"
+    },
+    "Darumaka [1]": {
+        "Dex Entry": "#554",
+        "Type": "Fire",
+        "Generation": "Generation V"
+    },
+    "Darumaka [2]": {
+        "Dex Entry": "#554",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Darmanitan [1]": {
+        "Dex Entry": "#555",
+        "Type": "Fire",
+        "Generation": "Generation V"
+    },
+    "Darmanitan [2]": {
+        "Dex Entry": "#555",
+        "Type": "Fire/Psychic",
+        "Generation": "Generation V"
+    },
+    "Darmanitan [3]": {
+        "Dex Entry": "#555",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Darmanitan [4]": {
+        "Dex Entry": "#555",
+        "Type": "Ice/Fire",
+        "Generation": "Generation V"
+    },
+    "Maractus": {
+        "Dex Entry": "#556",
+        "Type": "Grass",
+        "Generation": "Generation V"
+    },
+    "Dwebble": {
+        "Dex Entry": "#557",
+        "Type": "Bug/Rock",
+        "Generation": "Generation V"
+    },
+    "Crustle": {
+        "Dex Entry": "#558",
+        "Type": "Bug/Rock",
+        "Generation": "Generation V"
+    },
+    "Scraggy": {
+        "Dex Entry": "#559",
+        "Type": "Dark/Fighting",
+        "Generation": "Generation V"
+    },
+    "Scrafty": {
+        "Dex Entry": "#560",
+        "Type": "Dark/Fighting",
+        "Generation": "Generation V"
+    },
+    "Sigilyph": {
+        "Dex Entry": "#561",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation V"
+    },
+    "Yamask [1]": {
+        "Dex Entry": "#562",
+        "Type": "Ghost",
+        "Generation": "Generation V"
+    },
+    "Yamask [2]": {
+        "Dex Entry": "#562",
+        "Type": "Ground/Ghost",
+        "Generation": "Generation V"
+    },
+    "Cofagrigus": {
+        "Dex Entry": "#563",
+        "Type": "Ghost",
+        "Generation": "Generation V"
+    },
+    "Tirtouga": {
+        "Dex Entry": "#564",
+        "Type": "Water/Rock",
+        "Generation": "Generation V"
+    },
+    "Carracosta": {
+        "Dex Entry": "#565",
+        "Type": "Water/Rock",
+        "Generation": "Generation V"
+    },
+    "Archen": {
+        "Dex Entry": "#566",
+        "Type": "Rock/Flying",
+        "Generation": "Generation V"
+    },
+    "Archeops": {
+        "Dex Entry": "#567",
+        "Type": "Rock/Flying",
+        "Generation": "Generation V"
+    },
+    "Trubbish": {
+        "Dex Entry": "#568",
+        "Type": "Poison",
+        "Generation": "Generation V"
+    },
+    "Garbodor": {
+        "Dex Entry": "#569",
+        "Type": "Poison",
+        "Generation": "Generation V"
+    },
+    "Zorua": {
+        "Dex Entry": "#570",
+        "Type": "Dark",
+        "Generation": "Generation V"
+    },
+    "Zoroark": {
+        "Dex Entry": "#571",
+        "Type": "Dark",
+        "Generation": "Generation V"
+    },
+    "Minccino": {
+        "Dex Entry": "#572",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Cinccino": {
+        "Dex Entry": "#573",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Gothita": {
+        "Dex Entry": "#574",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Gothorita": {
+        "Dex Entry": "#575",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Gothitelle": {
+        "Dex Entry": "#576",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Solosis": {
+        "Dex Entry": "#577",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Duosion": {
+        "Dex Entry": "#578",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Reuniclus": {
+        "Dex Entry": "#579",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Ducklett": {
+        "Dex Entry": "#580",
+        "Type": "Water/Flying",
+        "Generation": "Generation V"
+    },
+    "Swanna": {
+        "Dex Entry": "#581",
+        "Type": "Water/Flying",
+        "Generation": "Generation V"
+    },
+    "Vanillite": {
+        "Dex Entry": "#582",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Vanillish": {
+        "Dex Entry": "#583",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Vanilluxe": {
+        "Dex Entry": "#584",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Deerling": {
+        "Dex Entry": "#585",
+        "Type": "Normal/Grass",
+        "Generation": "Generation V"
+    },
+    "Sawsbuck": {
+        "Dex Entry": "#586",
+        "Type": "Normal/Grass",
+        "Generation": "Generation V"
+    },
+    "Emolga": {
+        "Dex Entry": "#587",
+        "Type": "Electric/Flying",
+        "Generation": "Generation V"
+    },
+    "Karrablast": {
+        "Dex Entry": "#588",
+        "Type": "Bug",
+        "Generation": "Generation V"
+    },
+    "Escavalier": {
+        "Dex Entry": "#589",
+        "Type": "Bug/Steel",
+        "Generation": "Generation V"
+    },
+    "Foongus": {
+        "Dex Entry": "#590",
+        "Type": "Grass/Poison",
+        "Generation": "Generation V"
+    },
+    "Amoonguss": {
+        "Dex Entry": "#591",
+        "Type": "Grass/Poison",
+        "Generation": "Generation V"
+    },
+    "Frillish [1]": {
+        "Dex Entry": "#592",
+        "Type": "Water/Ghost",
+        "Generation": "Generation V"
+    },
+    "Frillish [2]": {
+        "Dex Entry": "#592",
+        "Type": "Water/Ghost",
+        "Generation": "Generation V"
+    },
+    "Jellicent [1]": {
+        "Dex Entry": "#593",
+        "Type": "Water/Ghost",
+        "Generation": "Generation V"
+    },
+    "Jellicent [2]": {
+        "Dex Entry": "#593",
+        "Type": "Water/Ghost",
+        "Generation": "Generation V"
+    },
+    "Alomomola": {
+        "Dex Entry": "#594",
+        "Type": "Water",
+        "Generation": "Generation V"
+    },
+    "Joltik": {
+        "Dex Entry": "#595",
+        "Type": "Bug/Electric",
+        "Generation": "Generation V"
+    },
+    "Galvantula": {
+        "Dex Entry": "#596",
+        "Type": "Bug/Electric",
+        "Generation": "Generation V"
+    },
+    "Ferroseed": {
+        "Dex Entry": "#597",
+        "Type": "Grass/Steel",
+        "Generation": "Generation V"
+    },
+    "Ferrothorn": {
+        "Dex Entry": "#598",
+        "Type": "Grass/Steel",
+        "Generation": "Generation V"
+    },
+    "Klink": {
+        "Dex Entry": "#599",
+        "Type": "Steel",
+        "Generation": "Generation V"
+    },
+    "Klang": {
+        "Dex Entry": "#600",
+        "Type": "Steel",
+        "Generation": "Generation V"
+    },
+    "Klinklang": {
+        "Dex Entry": "#601",
+        "Type": "Steel",
+        "Generation": "Generation V"
+    },
+    "Tynamo": {
+        "Dex Entry": "#602",
+        "Type": "Electric",
+        "Generation": "Generation V"
+    },
+    "Eelektrik": {
+        "Dex Entry": "#603",
+        "Type": "Electric",
+        "Generation": "Generation V"
+    },
+    "Eelektross": {
+        "Dex Entry": "#604",
+        "Type": "Electric",
+        "Generation": "Generation V"
+    },
+    "Elgyem": {
+        "Dex Entry": "#605",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Beheeyem": {
+        "Dex Entry": "#606",
+        "Type": "Psychic",
+        "Generation": "Generation V"
+    },
+    "Litwick": {
+        "Dex Entry": "#607",
+        "Type": "Ghost/Fire",
+        "Generation": "Generation V"
+    },
+    "Lampent": {
+        "Dex Entry": "#608",
+        "Type": "Ghost/Fire",
+        "Generation": "Generation V"
+    },
+    "Chandelure": {
+        "Dex Entry": "#609",
+        "Type": "Ghost/Fire",
+        "Generation": "Generation V"
+    },
+    "Axew": {
+        "Dex Entry": "#610",
+        "Type": "Dragon",
+        "Generation": "Generation V"
+    },
+    "Fraxure": {
+        "Dex Entry": "#611",
+        "Type": "Dragon",
+        "Generation": "Generation V"
+    },
+    "Haxorus": {
+        "Dex Entry": "#612",
+        "Type": "Dragon",
+        "Generation": "Generation V"
+    },
+    "Cubchoo": {
+        "Dex Entry": "#613",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Beartic": {
+        "Dex Entry": "#614",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Cryogonal": {
+        "Dex Entry": "#615",
+        "Type": "Ice",
+        "Generation": "Generation V"
+    },
+    "Shelmet": {
+        "Dex Entry": "#616",
+        "Type": "Bug",
+        "Generation": "Generation V"
+    },
+    "Accelgor": {
+        "Dex Entry": "#617",
+        "Type": "Bug",
+        "Generation": "Generation V"
+    },
+    "Stunfisk [1]": {
+        "Dex Entry": "#618",
+        "Type": "Ground/Electric",
+        "Generation": "Generation V"
+    },
+    "Stunfisk [2]": {
+        "Dex Entry": "#618",
+        "Type": "Ground/Steel",
+        "Generation": "Generation V"
+    },
+    "Mienfoo": {
+        "Dex Entry": "#619",
+        "Type": "Fighting",
+        "Generation": "Generation V"
+    },
+    "Mienshao": {
+        "Dex Entry": "#620",
+        "Type": "Fighting",
+        "Generation": "Generation V"
+    },
+    "Druddigon": {
+        "Dex Entry": "#621",
+        "Type": "Dragon",
+        "Generation": "Generation V"
+    },
+    "Golett": {
+        "Dex Entry": "#622",
+        "Type": "Ground/Ghost",
+        "Generation": "Generation V"
+    },
+    "Golurk": {
+        "Dex Entry": "#623",
+        "Type": "Ground/Ghost",
+        "Generation": "Generation V"
+    },
+    "Pawniard": {
+        "Dex Entry": "#624",
+        "Type": "Dark/Steel",
+        "Generation": "Generation V"
+    },
+    "Bisharp": {
+        "Dex Entry": "#625",
+        "Type": "Dark/Steel",
+        "Generation": "Generation V"
+    },
+    "Bouffalant": {
+        "Dex Entry": "#626",
+        "Type": "Normal",
+        "Generation": "Generation V"
+    },
+    "Rufflet": {
+        "Dex Entry": "#627",
+        "Type": "Normal/Flying",
+        "Generation": "Generation V"
+    },
+    "Braviary": {
+        "Dex Entry": "#628",
+        "Type": "Normal/Flying",
+        "Generation": "Generation V"
+    },
+    "Vullaby": {
+        "Dex Entry": "#629",
+        "Type": "Dark/Flying",
+        "Generation": "Generation V"
+    },
+    "Mandibuzz": {
+        "Dex Entry": "#630",
+        "Type": "Dark/Flying",
+        "Generation": "Generation V"
+    },
+    "Heatmor": {
+        "Dex Entry": "#631",
+        "Type": "Fire",
+        "Generation": "Generation V"
+    },
+    "Durant": {
+        "Dex Entry": "#632",
+        "Type": "Bug/Steel",
+        "Generation": "Generation V"
+    },
+    "Deino": {
+        "Dex Entry": "#633",
+        "Type": "Dark/Dragon",
+        "Generation": "Generation V"
+    },
+    "Zweilous": {
+        "Dex Entry": "#634",
+        "Type": "Dark/Dragon",
+        "Generation": "Generation V"
+    },
+    "Hydreigon": {
+        "Dex Entry": "#635",
+        "Type": "Dark/Dragon",
+        "Generation": "Generation V"
+    },
+    "Larvesta": {
+        "Dex Entry": "#636",
+        "Type": "Bug/Fire",
+        "Generation": "Generation V"
+    },
+    "Volcarona": {
+        "Dex Entry": "#637",
+        "Type": "Bug/Fire",
+        "Generation": "Generation V"
+    },
+    "Cobalion": {
+        "Dex Entry": "#638",
+        "Type": "Steel/Fighting",
+        "Generation": "Generation V"
+    },
+    "Terrakion": {
+        "Dex Entry": "#639",
+        "Type": "Rock/Fighting",
+        "Generation": "Generation V"
+    },
+    "Virizion": {
+        "Dex Entry": "#640",
+        "Type": "Grass/Fighting",
+        "Generation": "Generation V"
+    },
+    "Tornadus": {
+        "Dex Entry": "#641",
+        "Type": "Flying",
+        "Generation": "Generation V"
+    },
+    "Thundurus": {
+        "Dex Entry": "#642",
+        "Type": "Electric/Flying",
+        "Generation": "Generation V"
+    },
+    "Reshiram": {
+        "Dex Entry": "#643",
+        "Type": "Dragon/Fire",
+        "Generation": "Generation V"
+    },
+    "Zekrom": {
+        "Dex Entry": "#644",
+        "Type": "Dragon/Electric",
+        "Generation": "Generation V"
+    },
+    "Landorus": {
+        "Dex Entry": "#645",
+        "Type": "Ground/Flying",
+        "Generation": "Generation V"
+    },
+    "Kyurem": {
+        "Dex Entry": "#646",
+        "Type": "Dragon/Ice",
+        "Generation": "Generation V"
+    },
+    "Keldeo": {
+        "Dex Entry": "#647",
+        "Type": "Water/Fighting",
+        "Generation": "Generation V"
+    },
+    "Meloetta [1]": {
+        "Dex Entry": "#648",
+        "Type": "Normal/Psychic",
+        "Generation": "Generation V"
+    },
+    "Meloetta [2]": {
+        "Dex Entry": "#648",
+        "Type": "Normal/Fighting",
+        "Generation": "Generation V"
+    },
+    "Genesect": {
+        "Dex Entry": "#649",
+        "Type": "Bug/Steel",
+        "Generation": "Generation V"
+    },
+    "Chespin": {
+        "Dex Entry": "#650",
+        "Type": "Grass",
+        "Generation": "Generation VI"
+    },
+    "Quilladin": {
+        "Dex Entry": "#651",
+        "Type": "Grass",
+        "Generation": "Generation VI"
+    },
+    "Chesnaught": {
+        "Dex Entry": "#652",
+        "Type": "Grass/Fighting",
+        "Generation": "Generation VI"
+    },
+    "Fennekin": {
+        "Dex Entry": "#653",
+        "Type": "Fire",
+        "Generation": "Generation VI"
+    },
+    "Braixen": {
+        "Dex Entry": "#654",
+        "Type": "Fire",
+        "Generation": "Generation VI"
+    },
+    "Delphox": {
+        "Dex Entry": "#655",
+        "Type": "Fire/Psychic",
+        "Generation": "Generation VI"
+    },
+    "Froakie": {
+        "Dex Entry": "#656",
+        "Type": "Water",
+        "Generation": "Generation VI"
+    },
+    "Frogadier": {
+        "Dex Entry": "#657",
+        "Type": "Water",
+        "Generation": "Generation VI"
+    },
+    "Greninja": {
+        "Dex Entry": "#658",
+        "Type": "Water/Dark",
+        "Generation": "Generation VI"
+    },
+    "Bunnelby": {
+        "Dex Entry": "#659",
+        "Type": "Normal",
+        "Generation": "Generation VI"
+    },
+    "Diggersby": {
+        "Dex Entry": "#660",
+        "Type": "Normal/Ground",
+        "Generation": "Generation VI"
+    },
+    "Fletchling": {
+        "Dex Entry": "#661",
+        "Type": "Normal/Flying",
+        "Generation": "Generation VI"
+    },
+    "Fletchinder": {
+        "Dex Entry": "#662",
+        "Type": "Fire/Flying",
+        "Generation": "Generation VI"
+    },
+    "Talonflame": {
+        "Dex Entry": "#663",
+        "Type": "Fire/Flying",
+        "Generation": "Generation VI"
+    },
+    "Scatterbug": {
+        "Dex Entry": "#664",
+        "Type": "Bug",
+        "Generation": "Generation VI"
+    },
+    "Spewpa": {
+        "Dex Entry": "#665",
+        "Type": "Bug",
+        "Generation": "Generation VI"
+    },
+    "Vivillon": {
+        "Dex Entry": "#666",
+        "Type": "Bug/Flying",
+        "Generation": "Generation VI"
+    },
+    "Litleo": {
+        "Dex Entry": "#667",
+        "Type": "Fire/Normal",
+        "Generation": "Generation VI"
+    },
+    "Pyroar": {
+        "Dex Entry": "#668",
+        "Type": "Fire/Normal",
+        "Generation": "Generation VI"
+    },
+    "Flab\u00e9b\u00e9": {
+        "Dex Entry": "#669",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Floette": {
+        "Dex Entry": "#670",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Florges": {
+        "Dex Entry": "#671",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Skiddo": {
+        "Dex Entry": "#672",
+        "Type": "Grass",
+        "Generation": "Generation VI"
+    },
+    "Gogoat": {
+        "Dex Entry": "#673",
+        "Type": "Grass",
+        "Generation": "Generation VI"
+    },
+    "Pancham": {
+        "Dex Entry": "#674",
+        "Type": "Fighting",
+        "Generation": "Generation VI"
+    },
+    "Pangoro": {
+        "Dex Entry": "#675",
+        "Type": "Fighting/Dark",
+        "Generation": "Generation VI"
+    },
+    "Furfrou": {
+        "Dex Entry": "#676",
+        "Type": "Normal",
+        "Generation": "Generation VI"
+    },
+    "Espurr": {
+        "Dex Entry": "#677",
+        "Type": "Psychic",
+        "Generation": "Generation VI"
+    },
+    "Meowstic": {
+        "Dex Entry": "#678",
+        "Type": "Psychic",
+        "Generation": "Generation VI"
+    },
+    "Honedge": {
+        "Dex Entry": "#679",
+        "Type": "Steel/Ghost",
+        "Generation": "Generation VI"
+    },
+    "Doublade": {
+        "Dex Entry": "#680",
+        "Type": "Steel/Ghost",
+        "Generation": "Generation VI"
+    },
+    "Aegislash": {
+        "Dex Entry": "#681",
+        "Type": "Steel/Ghost",
+        "Generation": "Generation VI"
+    },
+    "Spritzee": {
+        "Dex Entry": "#682",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Aromatisse": {
+        "Dex Entry": "#683",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Swirlix": {
+        "Dex Entry": "#684",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Slurpuff": {
+        "Dex Entry": "#685",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Inkay": {
+        "Dex Entry": "#686",
+        "Type": "Dark/Psychic",
+        "Generation": "Generation VI"
+    },
+    "Malamar": {
+        "Dex Entry": "#687",
+        "Type": "Dark/Psychic",
+        "Generation": "Generation VI"
+    },
+    "Binacle": {
+        "Dex Entry": "#688",
+        "Type": "Rock/Water",
+        "Generation": "Generation VI"
+    },
+    "Barbaracle": {
+        "Dex Entry": "#689",
+        "Type": "Rock/Water",
+        "Generation": "Generation VI"
+    },
+    "Skrelp": {
+        "Dex Entry": "#690",
+        "Type": "Poison/Water",
+        "Generation": "Generation VI"
+    },
+    "Dragalge": {
+        "Dex Entry": "#691",
+        "Type": "Poison/Dragon",
+        "Generation": "Generation VI"
+    },
+    "Clauncher": {
+        "Dex Entry": "#692",
+        "Type": "Water",
+        "Generation": "Generation VI"
+    },
+    "Clawitzer": {
+        "Dex Entry": "#693",
+        "Type": "Water",
+        "Generation": "Generation VI"
+    },
+    "Helioptile": {
+        "Dex Entry": "#694",
+        "Type": "Electric/Normal",
+        "Generation": "Generation VI"
+    },
+    "Heliolisk": {
+        "Dex Entry": "#695",
+        "Type": "Electric/Normal",
+        "Generation": "Generation VI"
+    },
+    "Tyrunt": {
+        "Dex Entry": "#696",
+        "Type": "Rock/Dragon",
+        "Generation": "Generation VI"
+    },
+    "Tyrantrum": {
+        "Dex Entry": "#697",
+        "Type": "Rock/Dragon",
+        "Generation": "Generation VI"
+    },
+    "Amaura": {
+        "Dex Entry": "#698",
+        "Type": "Rock/Ice",
+        "Generation": "Generation VI"
+    },
+    "Aurorus": {
+        "Dex Entry": "#699",
+        "Type": "Rock/Ice",
+        "Generation": "Generation VI"
+    },
+    "Sylveon": {
+        "Dex Entry": "#700",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Hawlucha": {
+        "Dex Entry": "#701",
+        "Type": "Fighting/Flying",
+        "Generation": "Generation VI"
+    },
+    "Dedenne": {
+        "Dex Entry": "#702",
+        "Type": "Electric/Fairy",
+        "Generation": "Generation VI"
+    },
+    "Carbink": {
+        "Dex Entry": "#703",
+        "Type": "Rock/Fairy",
+        "Generation": "Generation VI"
+    },
+    "Goomy": {
+        "Dex Entry": "#704",
+        "Type": "Dragon",
+        "Generation": "Generation VI"
+    },
+    "Sliggoo": {
+        "Dex Entry": "#705",
+        "Type": "Dragon",
+        "Generation": "Generation VI"
+    },
+    "Goodra": {
+        "Dex Entry": "#706",
+        "Type": "Dragon",
+        "Generation": "Generation VI"
+    },
+    "Klefki": {
+        "Dex Entry": "#707",
+        "Type": "Steel/Fairy",
+        "Generation": "Generation VI"
+    },
+    "Phantump": {
+        "Dex Entry": "#708",
+        "Type": "Ghost/Grass",
+        "Generation": "Generation VI"
+    },
+    "Trevenant": {
+        "Dex Entry": "#709",
+        "Type": "Ghost/Grass",
+        "Generation": "Generation VI"
+    },
+    "Pumpkaboo": {
+        "Dex Entry": "#710",
+        "Type": "Ghost/Grass",
+        "Generation": "Generation VI"
+    },
+    "Gourgeist": {
+        "Dex Entry": "#711",
+        "Type": "Ghost/Grass",
+        "Generation": "Generation VI"
+    },
+    "Bergmite": {
+        "Dex Entry": "#712",
+        "Type": "Ice",
+        "Generation": "Generation VI"
+    },
+    "Avalugg": {
+        "Dex Entry": "#713",
+        "Type": "Ice",
+        "Generation": "Generation VI"
+    },
+    "Noibat": {
+        "Dex Entry": "#714",
+        "Type": "Flying/Dragon",
+        "Generation": "Generation VI"
+    },
+    "Noivern": {
+        "Dex Entry": "#715",
+        "Type": "Flying/Dragon",
+        "Generation": "Generation VI"
+    },
+    "Xerneas": {
+        "Dex Entry": "#716",
+        "Type": "Fairy",
+        "Generation": "Generation VI"
+    },
+    "Yveltal": {
+        "Dex Entry": "#717",
+        "Type": "Dark/Flying",
+        "Generation": "Generation VI"
+    },
+    "Zygarde": {
+        "Dex Entry": "#718",
+        "Type": "Dragon/Ground",
+        "Generation": "Generation VI"
+    },
+    "Diancie": {
+        "Dex Entry": "#719",
+        "Type": "Rock/Fairy",
+        "Generation": "Generation VI"
+    },
+    "Hoopa [1]": {
+        "Dex Entry": "#720",
+        "Type": "Psychic/Ghost",
+        "Generation": "Generation VI"
+    },
+    "Hoopa [2]": {
+        "Dex Entry": "#720",
+        "Type": "Psychic/Dark",
+        "Generation": "Generation VI"
+    },
+    "Volcanion": {
+        "Dex Entry": "#721",
+        "Type": "Fire/Water",
+        "Generation": "Generation VI"
+    },
+    "Rowlet": {
+        "Dex Entry": "#722",
+        "Type": "Grass/Flying",
+        "Generation": "Generation VII"
+    },
+    "Dartrix": {
+        "Dex Entry": "#723",
+        "Type": "Grass/Flying",
+        "Generation": "Generation VII"
+    },
+    "Decidueye": {
+        "Dex Entry": "#724",
+        "Type": "Grass/Ghost",
+        "Generation": "Generation VII"
+    },
+    "Litten": {
+        "Dex Entry": "#725",
+        "Type": "Fire",
+        "Generation": "Generation VII"
+    },
+    "Torracat": {
+        "Dex Entry": "#726",
+        "Type": "Fire",
+        "Generation": "Generation VII"
+    },
+    "Incineroar": {
+        "Dex Entry": "#727",
+        "Type": "Fire/Dark",
+        "Generation": "Generation VII"
+    },
+    "Popplio": {
+        "Dex Entry": "#728",
+        "Type": "Water",
+        "Generation": "Generation VII"
+    },
+    "Brionne": {
+        "Dex Entry": "#729",
+        "Type": "Water",
+        "Generation": "Generation VII"
+    },
+    "Primarina": {
+        "Dex Entry": "#730",
+        "Type": "Water/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Pikipek": {
+        "Dex Entry": "#731",
+        "Type": "Normal/Flying",
+        "Generation": "Generation VII"
+    },
+    "Trumbeak": {
+        "Dex Entry": "#732",
+        "Type": "Normal/Flying",
+        "Generation": "Generation VII"
+    },
+    "Toucannon": {
+        "Dex Entry": "#733",
+        "Type": "Normal/Flying",
+        "Generation": "Generation VII"
+    },
+    "Yungoos": {
+        "Dex Entry": "#734",
+        "Type": "Normal",
+        "Generation": "Generation VII"
+    },
+    "Gumshoos": {
+        "Dex Entry": "#735",
+        "Type": "Normal",
+        "Generation": "Generation VII"
+    },
+    "Grubbin": {
+        "Dex Entry": "#736",
+        "Type": "Bug",
+        "Generation": "Generation VII"
+    },
+    "Charjabug": {
+        "Dex Entry": "#737",
+        "Type": "Bug/Electric",
+        "Generation": "Generation VII"
+    },
+    "Vikavolt": {
+        "Dex Entry": "#738",
+        "Type": "Bug/Electric",
+        "Generation": "Generation VII"
+    },
+    "Crabrawler": {
+        "Dex Entry": "#739",
+        "Type": "Fighting",
+        "Generation": "Generation VII"
+    },
+    "Crabominable": {
+        "Dex Entry": "#740",
+        "Type": "Fighting/Ice",
+        "Generation": "Generation VII"
+    },
+    "Oricorio [1]": {
+        "Dex Entry": "#741",
+        "Type": "Fire/Flying",
+        "Generation": "Generation VII"
+    },
+    "Oricorio [2]": {
+        "Dex Entry": "#741",
+        "Type": "Electric/Flying",
+        "Generation": "Generation VII"
+    },
+    "Oricorio [3]": {
+        "Dex Entry": "#741",
+        "Type": "Psychic/Flying",
+        "Generation": "Generation VII"
+    },
+    "Oricorio [4]": {
+        "Dex Entry": "#741",
+        "Type": "Ghost/Flying",
+        "Generation": "Generation VII"
+    },
+    "Cutiefly": {
+        "Dex Entry": "#742",
+        "Type": "Bug/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Ribombee": {
+        "Dex Entry": "#743",
+        "Type": "Bug/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Rockruff": {
+        "Dex Entry": "#744",
+        "Type": "Rock",
+        "Generation": "Generation VII"
+    },
+    "Lycanroc": {
+        "Dex Entry": "#745",
+        "Type": "Rock",
+        "Generation": "Generation VII"
+    },
+    "Wishiwashi": {
+        "Dex Entry": "#746",
+        "Type": "Water",
+        "Generation": "Generation VII"
+    },
+    "Mareanie": {
+        "Dex Entry": "#747",
+        "Type": "Poison/Water",
+        "Generation": "Generation VII"
+    },
+    "Toxapex": {
+        "Dex Entry": "#748",
+        "Type": "Poison/Water",
+        "Generation": "Generation VII"
+    },
+    "Mudbray": {
+        "Dex Entry": "#749",
+        "Type": "Ground",
+        "Generation": "Generation VII"
+    },
+    "Mudsdale": {
+        "Dex Entry": "#750",
+        "Type": "Ground",
+        "Generation": "Generation VII"
+    },
+    "Dewpider": {
+        "Dex Entry": "#751",
+        "Type": "Water/Bug",
+        "Generation": "Generation VII"
+    },
+    "Araquanid": {
+        "Dex Entry": "#752",
+        "Type": "Water/Bug",
+        "Generation": "Generation VII"
+    },
+    "Fomantis": {
+        "Dex Entry": "#753",
+        "Type": "Grass",
+        "Generation": "Generation VII"
+    },
+    "Lurantis": {
+        "Dex Entry": "#754",
+        "Type": "Grass",
+        "Generation": "Generation VII"
+    },
+    "Morelull": {
+        "Dex Entry": "#755",
+        "Type": "Grass/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Shiinotic": {
+        "Dex Entry": "#756",
+        "Type": "Grass/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Salandit": {
+        "Dex Entry": "#757",
+        "Type": "Poison/Fire",
+        "Generation": "Generation VII"
+    },
+    "Salazzle": {
+        "Dex Entry": "#758",
+        "Type": "Poison/Fire",
+        "Generation": "Generation VII"
+    },
+    "Stufful": {
+        "Dex Entry": "#759",
+        "Type": "Normal/Fighting",
+        "Generation": "Generation VII"
+    },
+    "Bewear": {
+        "Dex Entry": "#760",
+        "Type": "Normal/Fighting",
+        "Generation": "Generation VII"
+    },
+    "Bounsweet": {
+        "Dex Entry": "#761",
+        "Type": "Grass",
+        "Generation": "Generation VII"
+    },
+    "Steenee": {
+        "Dex Entry": "#762",
+        "Type": "Grass",
+        "Generation": "Generation VII"
+    },
+    "Tsareena": {
+        "Dex Entry": "#763",
+        "Type": "Grass",
+        "Generation": "Generation VII"
+    },
+    "Comfey": {
+        "Dex Entry": "#764",
+        "Type": "Fairy",
+        "Generation": "Generation VII"
+    },
+    "Oranguru": {
+        "Dex Entry": "#765",
+        "Type": "Normal/Psychic",
+        "Generation": "Generation VII"
+    },
+    "Passimian": {
+        "Dex Entry": "#766",
+        "Type": "Fighting",
+        "Generation": "Generation VII"
+    },
+    "Wimpod": {
+        "Dex Entry": "#767",
+        "Type": "Bug/Water",
+        "Generation": "Generation VII"
+    },
+    "Golisopod": {
+        "Dex Entry": "#768",
+        "Type": "Bug/Water",
+        "Generation": "Generation VII"
+    },
+    "Sandygast": {
+        "Dex Entry": "#769",
+        "Type": "Ghost/Ground",
+        "Generation": "Generation VII"
+    },
+    "Palossand": {
+        "Dex Entry": "#770",
+        "Type": "Ghost/Ground",
+        "Generation": "Generation VII"
+    },
+    "Pyukumuku": {
+        "Dex Entry": "#771",
+        "Type": "Water",
+        "Generation": "Generation VII"
+    },
+    "Type: Null": {
+        "Dex Entry": "#772",
+        "Type": "Normal",
+        "Generation": "Generation VII"
+    },
+    "Silvally": {
+        "Dex Entry": "#773",
+        "Type": "Normal",
+        "Generation": "Generation VII"
+    },
+    "Minior": {
+        "Dex Entry": "#774",
+        "Type": "Rock/Flying",
+        "Generation": "Generation VII"
+    },
+    "Komala": {
+        "Dex Entry": "#775",
+        "Type": "Normal",
+        "Generation": "Generation VII"
+    },
+    "Turtonator": {
+        "Dex Entry": "#776",
+        "Type": "Fire/Dragon",
+        "Generation": "Generation VII"
+    },
+    "Togedemaru": {
+        "Dex Entry": "#777",
+        "Type": "Electric/Steel",
+        "Generation": "Generation VII"
+    },
+    "Mimikyu": {
+        "Dex Entry": "#778",
+        "Type": "Ghost/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Bruxish": {
+        "Dex Entry": "#779",
+        "Type": "Water/Psychic",
+        "Generation": "Generation VII"
+    },
+    "Drampa": {
+        "Dex Entry": "#780",
+        "Type": "Normal/Dragon",
+        "Generation": "Generation VII"
+    },
+    "Dhelmise": {
+        "Dex Entry": "#781",
+        "Type": "Ghost/Grass",
+        "Generation": "Generation VII"
+    },
+    "Jangmo-o": {
+        "Dex Entry": "#782",
+        "Type": "Dragon",
+        "Generation": "Generation VII"
+    },
+    "Hakamo-o": {
+        "Dex Entry": "#783",
+        "Type": "Dragon/Fighting",
+        "Generation": "Generation VII"
+    },
+    "Kommo-o": {
+        "Dex Entry": "#784",
+        "Type": "Dragon/Fighting",
+        "Generation": "Generation VII"
+    },
+    "Tapu Koko": {
+        "Dex Entry": "#785",
+        "Type": "Electric/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Tapu Lele": {
+        "Dex Entry": "#786",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Tapu Bulu": {
+        "Dex Entry": "#787",
+        "Type": "Grass/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Tapu Fini": {
+        "Dex Entry": "#788",
+        "Type": "Water/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Cosmog": {
+        "Dex Entry": "#789",
+        "Type": "Psychic",
+        "Generation": "Generation VII"
+    },
+    "Cosmoem": {
+        "Dex Entry": "#790",
+        "Type": "Psychic",
+        "Generation": "Generation VII"
+    },
+    "Solgaleo": {
+        "Dex Entry": "#791",
+        "Type": "Psychic/Steel",
+        "Generation": "Generation VII"
+    },
+    "Lunala": {
+        "Dex Entry": "#792",
+        "Type": "Psychic/Ghost",
+        "Generation": "Generation VII"
+    },
+    "Nihilego": {
+        "Dex Entry": "#793",
+        "Type": "Rock/Poison",
+        "Generation": "Generation VII"
+    },
+    "Buzzwole": {
+        "Dex Entry": "#794",
+        "Type": "Bug/Fighting",
+        "Generation": "Generation VII"
+    },
+    "Pheromosa": {
+        "Dex Entry": "#795",
+        "Type": "Bug/Fighting",
+        "Generation": "Generation VII"
+    },
+    "Xurkitree": {
+        "Dex Entry": "#796",
+        "Type": "Electric",
+        "Generation": "Generation VII"
+    },
+    "Celesteela": {
+        "Dex Entry": "#797",
+        "Type": "Steel/Flying",
+        "Generation": "Generation VII"
+    },
+    "Kartana": {
+        "Dex Entry": "#798",
+        "Type": "Grass/Steel",
+        "Generation": "Generation VII"
+    },
+    "Guzzlord": {
+        "Dex Entry": "#799",
+        "Type": "Dark/Dragon",
+        "Generation": "Generation VII"
+    },
+    "Necrozma": {
+        "Dex Entry": "#800",
+        "Type": "Psychic",
+        "Generation": "Generation VII"
+    },
+    "Magearna": {
+        "Dex Entry": "#801",
+        "Type": "Steel/Fairy",
+        "Generation": "Generation VII"
+    },
+    "Marshadow": {
+        "Dex Entry": "#802",
+        "Type": "Fighting/Ghost",
+        "Generation": "Generation VII"
+    },
+    "Poipole": {
+        "Dex Entry": "#803",
+        "Type": "Poison",
+        "Generation": "Generation VII"
+    },
+    "Naganadel": {
+        "Dex Entry": "#804",
+        "Type": "Poison/Dragon",
+        "Generation": "Generation VII"
+    },
+    "Stakataka": {
+        "Dex Entry": "#805",
+        "Type": "Rock/Steel",
+        "Generation": "Generation VII"
+    },
+    "Blacephalon": {
+        "Dex Entry": "#806",
+        "Type": "Fire/Ghost",
+        "Generation": "Generation VII"
+    },
+    "Zeraora": {
+        "Dex Entry": "#807",
+        "Type": "Electric",
+        "Generation": "Generation VII"
+    },
+    "Meltan": {
+        "Dex Entry": "#808",
+        "Type": "Steel",
+        "Generation": "Generation VII"
+    },
+    "Melmetal": {
+        "Dex Entry": "#809",
+        "Type": "Steel",
+        "Generation": "Generation VII"
+    },
+    "Grookey": {
+        "Dex Entry": "#810",
+        "Type": "Grass",
+        "Generation": "Generation VIII"
+    },
+    "Thwackey": {
+        "Dex Entry": "#811",
+        "Type": "Grass",
+        "Generation": "Generation VIII"
+    },
+    "Rillaboom": {
+        "Dex Entry": "#812",
+        "Type": "Grass",
+        "Generation": "Generation VIII"
+    },
+    "Scorbunny": {
+        "Dex Entry": "#813",
+        "Type": "Fire",
+        "Generation": "Generation VIII"
+    },
+    "Raboot": {
+        "Dex Entry": "#814",
+        "Type": "Fire",
+        "Generation": "Generation VIII"
+    },
+    "Cinderace": {
+        "Dex Entry": "#815",
+        "Type": "Fire",
+        "Generation": "Generation VIII"
+    },
+    "Sobble": {
+        "Dex Entry": "#816",
+        "Type": "Water",
+        "Generation": "Generation VIII"
+    },
+    "Drizzile": {
+        "Dex Entry": "#817",
+        "Type": "Water",
+        "Generation": "Generation VIII"
+    },
+    "Inteleon": {
+        "Dex Entry": "#818",
+        "Type": "Water",
+        "Generation": "Generation VIII"
+    },
+    "Skwovet": {
+        "Dex Entry": "#819",
+        "Type": "Normal",
+        "Generation": "Generation VIII"
+    },
+    "Greedent": {
+        "Dex Entry": "#820",
+        "Type": "Normal",
+        "Generation": "Generation VIII"
+    },
+    "Rookidee": {
+        "Dex Entry": "#821",
+        "Type": "Flying",
+        "Generation": "Generation VIII"
+    },
+    "Corvisquire": {
+        "Dex Entry": "#822",
+        "Type": "Flying",
+        "Generation": "Generation VIII"
+    },
+    "Corviknight": {
+        "Dex Entry": "#823",
+        "Type": "Flying/Steel",
+        "Generation": "Generation VIII"
+    },
+    "Blipbug": {
+        "Dex Entry": "#824",
+        "Type": "Bug",
+        "Generation": "Generation VIII"
+    },
+    "Dottler": {
+        "Dex Entry": "#825",
+        "Type": "Bug/Psychic",
+        "Generation": "Generation VIII"
+    },
+    "Orbeetle": {
+        "Dex Entry": "#826",
+        "Type": "Bug/Psychic",
+        "Generation": "Generation VIII"
+    },
+    "Nickit": {
+        "Dex Entry": "#827",
+        "Type": "Dark",
+        "Generation": "Generation VIII"
+    },
+    "Thievul": {
+        "Dex Entry": "#828",
+        "Type": "Dark",
+        "Generation": "Generation VIII"
+    },
+    "Gossifleur": {
+        "Dex Entry": "#829",
+        "Type": "Grass",
+        "Generation": "Generation VIII"
+    },
+    "Eldegoss": {
+        "Dex Entry": "#830",
+        "Type": "Grass",
+        "Generation": "Generation VIII"
+    },
+    "Wooloo": {
+        "Dex Entry": "#831",
+        "Type": "Normal",
+        "Generation": "Generation VIII"
+    },
+    "Dubwool": {
+        "Dex Entry": "#832",
+        "Type": "Normal",
+        "Generation": "Generation VIII"
+    },
+    "Chewtle": {
+        "Dex Entry": "#833",
+        "Type": "Water",
+        "Generation": "Generation VIII"
+    },
+    "Drednaw": {
+        "Dex Entry": "#834",
+        "Type": "Water/Rock",
+        "Generation": "Generation VIII"
+    },
+    "Yamper": {
+        "Dex Entry": "#835",
+        "Type": "Electric",
+        "Generation": "Generation VIII"
+    },
+    "Boltund": {
+        "Dex Entry": "#836",
+        "Type": "Electric",
+        "Generation": "Generation VIII"
+    },
+    "Rolycoly": {
+        "Dex Entry": "#837",
+        "Type": "Rock",
+        "Generation": "Generation VIII"
+    },
+    "Carkol": {
+        "Dex Entry": "#838",
+        "Type": "Rock/Fire",
+        "Generation": "Generation VIII"
+    },
+    "Coalossal": {
+        "Dex Entry": "#839",
+        "Type": "Rock/Fire",
+        "Generation": "Generation VIII"
+    },
+    "Applin": {
+        "Dex Entry": "#840",
+        "Type": "Grass/Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Flapple": {
+        "Dex Entry": "#841",
+        "Type": "Grass/Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Appletun": {
+        "Dex Entry": "#842",
+        "Type": "Grass/Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Silicobra": {
+        "Dex Entry": "#843",
+        "Type": "Ground",
+        "Generation": "Generation VIII"
+    },
+    "Sandaconda": {
+        "Dex Entry": "#844",
+        "Type": "Ground",
+        "Generation": "Generation VIII"
+    },
+    "Cramorant": {
+        "Dex Entry": "#845",
+        "Type": "Flying/Water",
+        "Generation": "Generation VIII"
+    },
+    "Arrokuda": {
+        "Dex Entry": "#846",
+        "Type": "Water",
+        "Generation": "Generation VIII"
+    },
+    "Barraskewda": {
+        "Dex Entry": "#847",
+        "Type": "Water",
+        "Generation": "Generation VIII"
+    },
+    "Toxel": {
+        "Dex Entry": "#848",
+        "Type": "Electric/Poison",
+        "Generation": "Generation VIII"
+    },
+    "Toxtricity": {
+        "Dex Entry": "#849",
+        "Type": "Electric/Poison",
+        "Generation": "Generation VIII"
+    },
+    "Sizzlipede": {
+        "Dex Entry": "#850",
+        "Type": "Fire/Bug",
+        "Generation": "Generation VIII"
+    },
+    "Centiskorch": {
+        "Dex Entry": "#851",
+        "Type": "Fire/Bug",
+        "Generation": "Generation VIII"
+    },
+    "Clobbopus": {
+        "Dex Entry": "#852",
+        "Type": "Fighting",
+        "Generation": "Generation VIII"
+    },
+    "Grapploct": {
+        "Dex Entry": "#853",
+        "Type": "Fighting",
+        "Generation": "Generation VIII"
+    },
+    "Sinistea": {
+        "Dex Entry": "#854",
+        "Type": "Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Polteageist": {
+        "Dex Entry": "#855",
+        "Type": "Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Hatenna": {
+        "Dex Entry": "#856",
+        "Type": "Psychic",
+        "Generation": "Generation VIII"
+    },
+    "Hattrem": {
+        "Dex Entry": "#857",
+        "Type": "Psychic",
+        "Generation": "Generation VIII"
+    },
+    "Hatterene": {
+        "Dex Entry": "#858",
+        "Type": "Psychic/Fairy",
+        "Generation": "Generation VIII"
+    },
+    "Impidimp": {
+        "Dex Entry": "#859",
+        "Type": "Dark/Fairy",
+        "Generation": "Generation VIII"
+    },
+    "Morgrem": {
+        "Dex Entry": "#860",
+        "Type": "Dark/Fairy",
+        "Generation": "Generation VIII"
+    },
+    "Grimmsnarl": {
+        "Dex Entry": "#861",
+        "Type": "Dark/Fairy",
+        "Generation": "Generation VIII"
+    },
+    "Obstagoon": {
+        "Dex Entry": "#862",
+        "Type": "Dark/Normal",
+        "Generation": "Generation VIII"
+    },
+    "Perrserker": {
+        "Dex Entry": "#863",
+        "Type": "Steel",
+        "Generation": "Generation VIII"
+    },
+    "Cursola": {
+        "Dex Entry": "#864",
+        "Type": "Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Sirfetch'd": {
+        "Dex Entry": "#865",
+        "Type": "Fighting",
+        "Generation": "Generation VIII"
+    },
+    "Mr. Rime": {
+        "Dex Entry": "#866",
+        "Type": "Ice/Psychic",
+        "Generation": "Generation VIII"
+    },
+    "Runerigus": {
+        "Dex Entry": "#867",
+        "Type": "Ground/Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Milcery": {
+        "Dex Entry": "#868",
+        "Type": "Fairy",
+        "Generation": "Generation VIII"
+    },
+    "Alcremie": {
+        "Dex Entry": "#869",
+        "Type": "Fairy",
+        "Generation": "Generation VIII"
+    },
+    "Falinks": {
+        "Dex Entry": "#870",
+        "Type": "Fighting",
+        "Generation": "Generation VIII"
+    },
+    "Pincurchin": {
+        "Dex Entry": "#871",
+        "Type": "Electric",
+        "Generation": "Generation VIII"
+    },
+    "Snom": {
+        "Dex Entry": "#872",
+        "Type": "Ice/Bug",
+        "Generation": "Generation VIII"
+    },
+    "Frosmoth": {
+        "Dex Entry": "#873",
+        "Type": "Ice/Bug",
+        "Generation": "Generation VIII"
+    },
+    "Stonjourner": {
+        "Dex Entry": "#874",
+        "Type": "Rock",
+        "Generation": "Generation VIII"
+    },
+    "Eiscue": {
+        "Dex Entry": "#875",
+        "Type": "Ice",
+        "Generation": "Generation VIII"
+    },
+    "Indeedee": {
+        "Dex Entry": "#876",
+        "Type": "Psychic/Normal",
+        "Generation": "Generation VIII"
+    },
+    "Morpeko": {
+        "Dex Entry": "#877",
+        "Type": "Electric/Dark",
+        "Generation": "Generation VIII"
+    },
+    "Cufant": {
+        "Dex Entry": "#878",
+        "Type": "Steel",
+        "Generation": "Generation VIII"
+    },
+    "Copperajah": {
+        "Dex Entry": "#879",
+        "Type": "Steel",
+        "Generation": "Generation VIII"
+    },
+    "Dracozolt": {
+        "Dex Entry": "#880",
+        "Type": "Electric/Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Arctozolt": {
+        "Dex Entry": "#881",
+        "Type": "Electric/Ice",
+        "Generation": "Generation VIII"
+    },
+    "Dracovish": {
+        "Dex Entry": "#882",
+        "Type": "Water/Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Arctovish": {
+        "Dex Entry": "#883",
+        "Type": "Water/Ice",
+        "Generation": "Generation VIII"
+    },
+    "Duraludon": {
+        "Dex Entry": "#884",
+        "Type": "Steel/Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Dreepy": {
+        "Dex Entry": "#885",
+        "Type": "Dragon/Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Drakloak": {
+        "Dex Entry": "#886",
+        "Type": "Dragon/Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Dragapult": {
+        "Dex Entry": "#887",
+        "Type": "Dragon/Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Zacian [1]": {
+        "Dex Entry": "#888",
+        "Type": "Fairy",
+        "Generation": "Generation VIII"
+    },
+    "Zacian [2]": {
+        "Dex Entry": "#888",
+        "Type": "Fairy/Steel",
+        "Generation": "Generation VIII"
+    },
+    "Zamazenta [1]": {
+        "Dex Entry": "#889",
+        "Type": "Fighting",
+        "Generation": "Generation VIII"
+    },
+    "Zamazenta [2]": {
+        "Dex Entry": "#889",
+        "Type": "Fighting/Steel",
+        "Generation": "Generation VIII"
+    },
+    "Eternatus": {
+        "Dex Entry": "#890",
+        "Type": "Poison/Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Kubfu": {
+        "Dex Entry": "#891",
+        "Type": "Fighting",
+        "Generation": "Generation VIII"
+    },
+    "Urshifu [1]": {
+        "Dex Entry": "#892",
+        "Type": "Fighting/Dark",
+        "Generation": "Generation VIII"
+    },
+    "Urshifu [2]": {
+        "Dex Entry": "#892",
+        "Type": "Fighting/Water",
+        "Generation": "Generation VIII"
+    },
+    "Zarude": {
+        "Dex Entry": "#893",
+        "Type": "Dark/Grass",
+        "Generation": "Generation VIII"
+    },
+    "Regieleki": {
+        "Dex Entry": "#894",
+        "Type": "Electric",
+        "Generation": "Generation VIII"
+    },
+    "Regidrago": {
+        "Dex Entry": "#895",
+        "Type": "Dragon",
+        "Generation": "Generation VIII"
+    },
+    "Glastrier": {
+        "Dex Entry": "#896",
+        "Type": "Ice",
+        "Generation": "Generation VIII"
+    },
+    "Spectrier": {
+        "Dex Entry": "#897",
+        "Type": "Ghost",
+        "Generation": "Generation VIII"
+    },
+    "Calyrex [1]": {
+        "Dex Entry": "#898",
+        "Type": "Psychic/Grass",
+        "Generation": "Generation VIII"
+    },
+    "Calyrex [2]": {
+        "Dex Entry": "#898",
+        "Type": "Psychic/Ice",
+        "Generation": "Generation VIII"
+    },
+    "Calyrex [3]": {
+        "Dex Entry": "#898",
+        "Type": "Psychic/Ghost",
+        "Generation": "Generation VIII"
+    }
+}
