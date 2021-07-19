@@ -8,13 +8,13 @@ def add_entry(entry):
     else:
         f = open(file_name, "w")
     f.write(f"{entry}\n")
+    f.close()
 
 os.chdir("main")
 os.chdir("Gathered Data")
 
-f = open("Pokemon_Database.json", "r")
-
-data = json.load(f)
+with open("Pokemon_Database.json", "r") as f:
+    data = json.load(f)
 
 for entry in data:
     if "\u2640" in entry:
